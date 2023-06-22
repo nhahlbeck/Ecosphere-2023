@@ -1,0 +1,725 @@
+date,recorder,crew,capture_method,location,specific_location,sex,fish_of_day,fin_clip_id,scales_id,TL_estimate_in,FL_mm,wt_estimate_lb,wt_g,bioimp_a,bioimp_b,anesthesia_temp_C,diet_id,pit_id,radio_freq,radio_id,copepods,lamprey_marks,comments
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,1,,1,,553,,1798,,,,,003BC3BF3C,,,,,No radio tag. Released shoalwater bay.
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,2,,2,,519,,1464,,,,,003BC3BF31,,,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,3,,3,,532,,1578,,,,,003BC3BF46,,,,1,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,4,,4,,545,,2340,,,,,003BC3BF36,,,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,5,,5,,629,,2579,,,,,003BC3BF1B,,,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,6,,6,,494,,1386,,,,,003BC3BF1E,,,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,7,,7,,665,,3300,,,,,,290,20,,0,Caught at eagle point by matt coleman.
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,8,,8,,602,,1950,,,,,003BC3BF1F,,,,1,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,9,,,,627,,3182,,,,,,290,1,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,10,,10,,625,,2602,,,,,,290,2,,1,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,11,,11,,567,,2064,,,,,,290,3,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,12,,12,,551,,1966,,,,,,290,5,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,13,,13,,585,,2348,,,,,,290,4,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,14,,14,,549,,574,,,,,003BC3BF38,,,,,
+4/20/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,15,,15,,574,,1850,,,,,,,,,,Mortality from transport. Head taken. Sculpin in stomach. Eggs developing.
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,1,,1,,521,,1696,,,,,257C5B3734,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,2,,2,,569,,2044,,,,,257C5AF2CC,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,3,,3,,514,,1544,,,,,257C5DC5CD,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,4,,4,,520,,1578,,,,,257C5DB874,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,5,,5,,597,,2002,,,,,257C5B2E29,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,6,,,,597,,2708,,,,,,290,6,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,7,,7,,657,,3220,,,,,,290,7,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,8,,8,,544,,1726,,,,,257C5D926D,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,9,,9,,550,,2030,,,,,257C5D9372,,,,,
+4/21/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,10,,10,,541,,1878,,,,,,290,8,N,,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,1,,1,,573,,1534,,,,,257C5DBA86,250,20,N,,PIT ID may be switched with 250 17; unsure
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,2,,2,,646,,3479,,,,,257C5B40CE,250,17,Y,,PIT ID may be switched with 250 20; unsure
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,3,,3,,609,,2646,,,,,257C5B2C7E,250,19,N,,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,4,,4,,599,,2530,,,,,257C5D7D93,250,14,N,,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,5,,5,,530,,1640,,,,,257C6328FB,250,18,N,,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,6,,6,,511,,1651,,,,,257C5DC931,250,10,N,,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,7,,,,568,,1916,,,,,257C5AEAB8,250,15,N,1,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,8,,8,,549,,,,,,,003BC3BF07,,,,,
+5/2/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,9,,,,545,,,,,,,003BC3BF4D,,,N,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,1,,1,,659,,3213,,,,,257C5DA73D,250,8,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,2,,2,,515,,1703,,,,,257C631ECC,290,9,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,3,,3,,608,,2952,,,,,257C5B381C,290,11,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,4,,4,,690,,3890,,,,,257C5DAB79,290,12,,,Likely errors in either PIT ID or station/mobile data; see late may and oct 2016
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,5,,5,,560,,1883,,,,,257C5D72D2,290,13,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,6,,6,,605,,869,,,,,257C630DD8,290,14,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,7,,7,,615,,2023,,,,,257C5DAC60,290,15,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,8,,8,,760,,3612,,,,,257C6337C4,290,16,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,9,,9,,630,,1504,,,,,257C5DA9D0,290,17,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,10,,10,,524,,922,,,,,257C5DD693,290,18,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,11,,11,,595,,1339,,,,,257C5DCF70,290,19,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,12,,12,,535,,1085,,,,,,,,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,13,,13,,560,,1032,,,,,257C5A4D4C,250,2,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,14,,14,,590,,2281,,,,,257C5DCD8B,250,3,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,15,,15,,548,,2020,,,,,257C5DBA29,250,4,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,16,,16,,540,,2012,,,,,257C5B2DDF,250,5,,,PIT ID likely incorrect; oct 2016 detections unlikely given telemetry
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,17,,17,,595,,2225,,,,,257C5D75CF,250,7,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,18,,18,,503,,,,,,,257C5D8942,250,1,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,19,,19,,578,,2014,,,,,257C5DA3F6,290,10,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,20,,20,,550,,2023,,,,,,,,,,angling mort
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,21,,,,480,,,,,,,,,,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,22,,,,510,,,,,,,,,,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,23,,23,,546,,1920,,,,,,,,,,angling mort
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,24,,,,480,,,,,,,,,,,,
+5/3/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,,25,,,,470,,,,,,,,,,,,
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,1,,,,576,,,,,,,257C631C48,,,N,,Eagle ridge just past point is release site
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,2,,,,620,,,,,,,257C5AF21A,,,N,,Eagle Ridge just past point is release site
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,3,,,,540,,,,,,,257C5D8D39,,,,,Eagle Ridge just past point is release site
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,4,,4,,629,,3036,,,,,003BC3BF12,250,9,Y,,Fin clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,5,,5,,655,,3331,,,,,257C632ED9,250,11,,,Fin clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,6,,6,,670,,2978,,,,,003BC3BF1D,,,,,Dark and skinny. Fin clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,7,,7,,644,,3263,,,,,257C5DB1F6,250,12,,,Fin clip taken. Sex unknown
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,8,,8,,619,,2378,,,,,257C5D5E95,250,13,Y,,Fin Clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,9,,9,,625,,2126,,,,,003BC3BF28,250,6,N,,Missing part of dorsal and adipose. Dark coloration. Scratch marks.Fin Clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,10,,10,,545,,1225,,,,,003BC3BF3D,,,,,Fin Clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,11,,,,555,,1447,,,,,003BC3BF36,,,,,Scale loss. Fin Clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,12,,12,,545,,1305,,,,,003BC3BF62,,,,,Fin clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,13,,13,,566,,1606,,,,,257C5B3BD7,250,16,,,Sex unknown. Fin cip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,14,,14,,530,,874,,,,,003BC3BF61,,,,,Fin clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,F,15,,15,,534,,1173,,,,,003BC3BF69,,,,,Fin clip taken
+5/4/2016,unknown,,angling,UKL,Shoalwater/Eagle Ridge,M,16,,16,,565,,1554,,,,,003BC3BF14,,,,,Fin clip taken
+7/27/2016,WT,,mort,UKL,,,,ADFL1,,,725,,,,,,,,,,,,
+8/4/2016,WT,,mort,Pelican Bay,Harriman Ck,F,,ADFL2,,,535,,,,,,,,,,,,
+8/4/2016,WT,,mort,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,ADFL3,,,567,,,,,,,,,,,,hooking mort
+9/1/2016,AE,,mort,Williamson,Upper,F,,1,,22.5,,,,,,,,,,,,,rm 16
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,M,1,ADFL22,1,,695,,4072,,,,,003BC3BF87,,,N,10,"caught previous day and held in net pen resulting in physical damage; lamprey marks fresh, poor condition, scales missing"
+4/14/2017,NH,,angling,UKL,Shoalwater Bay,F,2,ADFL23,2,,618,,3590,,,,,003BC3BFAE,290,2,N,3,"2 fresh, 1 healed lamprey marks; excellent condition, potentially gravid but bright"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,F,3,ADFL24,3,,574,,2044,55.8,30.2,7.2,,,,,N,0,"caught previous day and held in net pen resulting in physical damage; deformed right eye, piece missing from caudal, net rash on mandible and opercle; fin clip mixed up with others - discarded as no longer identifiable"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,F,4,ADFL25,4,,575,,2110,52.7,29.6,6.8,,,,,N,10,"caught previous day and held in net pen resulting in physical damage; most lamprey marks fresh, right eye deformed, bright, spawned out"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,5,ADFL26,5,,598,,2225,63.1,26.5,7.2,,,,,N,0,"dark, fair condition; fin clip mixed up with others - discarded as no longer identifiable"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,F,6,ADFL27,6,,588,,1821,58.4,28.2,6.6,,,,,N,2,"caught previous day and held in net pen resulting in physical damage; lamprey marks severe, convulsed in measuring tray"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,F,7,ADFL28,7,,519,,1706,69.3,34.3,6.6,,,,,N,6,"caught previous day and held in net pen resulting in physical damage; lower mandible abrasion, left eye deformed"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,8,ADFL29,8,,544,,1710,67.7,34.7,7.6,,,,,Y,1,"caught previous day and held in net pen resulting in physical damage; hook or net injury on mouth w/ parasites, missing scales; fin clip mixed up with others - discarded as no longer identifiable"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,9,ADFL30,9,,500,,1436,69.6,36.5,7.6,,,,,N,0,"caught previous day and held in net pen resulting in physical damage; potential otter marks - 2 vertical lacerations, healed"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,,10,ADFL31,10,,598,,2318,54.2,28.6,7.2,,003BC3BFA8,250,9,N,0,"2 tiny lesions at base of dorsal fin, good condition, bright"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,,11,ADFL32,11,,604,,2708,58.8,27.2,7.1,,003BC3BFB8,290,3,N,1,"bright chrome, missing scales, otherwise good condition"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,12,ADFL33,12,,425,,828,85.8,41.5,,,,,,,,caught previous day and held in net pen resulting in physical damage
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,13,ADFL34,13,,494,,1236,70.5,31.2,6.9,,,,,N,0,caught previous day and held in net pen resulting in physical damage
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,14,ADFL35,14,,574,,2355,60.1,33.2,6.9,,003BC3BFC5,250,18,N,4,"caudal peduncle injury, some scales missing, bright"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,15,ADFL36,15,,535,,1668,58.7,28,7,,003BC3BF70,290,1,N,3,"2 old and 1 fresh lamprey marks, bright, fair condition, slight descaling"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,16,ADFL37,16,,622,,3034,50.1,25,9.2,,003BC3BFC3,250,4,N,6,"bright, otherwise good condition, NH sexed"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,17,ADFL38,17,,610,,3244,54.5,27.6,9.2,,003BC3BF76,290,7,Y,2,"bright, excellent condition except for 2 healed lamprey marks and a few lernaea in gills, NH sexed"
+4/14/2017,NH,,angling,UKL,Shoalwater Bay,F,18,ADFL39,18,,632,,3296,44.4,24.2,8.8,,003BC3BFB7,290,15,N,2,"lamprey marks healed, good condition, dark, caudal fin frayed, bleeder"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,19,ADFL40,19,,565,,2360,58.2,27.5,9.2,,003BC3BF82,290,18,N,3,"bright, some scale loss"
+4/14/2017,NH,,angling,UKL,Eagle Ridge,F,20,ADFL41,20,,565,,1886,49.9,28,9.2,,003BC3BFCA,290,10,N,0,"bright chrome, skinny, maybe spawned out, good scale coverage, NH sexed"
+4/14/2017,NH,,angling,UKL,Shoalwater Marsh,,21,ADFL42,21,,524,,1728,52.2,27.8,9.2,,,290,19,Y,3,"PIT ID originally duplicated 170 2; likely incorrect given telemetry. dark, skinny, lower mandible abrasion, lernaea in gill rakers"
+4/14/2017,NH,,angling,UKL,Shoalwater Marsh,F,22,ADFL43,22,,593,,2292,45.3,24.9,9.1,,003BC3BF79,290,4,N,3,"poor condition, heavy scale loss, hook in mouth, pale, deformed mandible, worst condition fish today, NH sexed"
+4/14/2017,NH,,angling,UKL,Shoalwater Marsh,F,23,ADFL44,23,,506,,1382,63.2,29.7,9.1,,003BC3BF8A,250,22,Y,5,"skinny, pale, NH sexed, 1 lernaea"
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,24,ADFL45,,,,,,,,,,,,,,,clip from one of fish 1-23 that fell out of envelope
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,25,ADFL46,,,,,,,,,,,,,,,clip from one of fish 1-23 that fell out of envelope
+4/14/2017,NH,,angling,UKL,Shoalwater/Eagle Ridge,,26,ADFL47,,,,,,,,,,,,,,,clip from one of fish 1-23 that fell out of envelope
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,1,ADFL48,1,,525,,1332,66.1,32.3,5.5,,,,,N,3,"spawned out, 3 vertical lacerations below dorsal, missing dorsal fin - fresh"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,2,ADFL49,2,,527,,1416,61,26.5,5.5,,003BC3BFAA,290,22,N,0,"blackish gums, heavily spotted, some descaling and possible very old lamprey marks, large anal and adipose fins, skinny and spawned out but great condition"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,3,KL1,KL1,,650,,3542,52.2,23.7,5.6,,003BC3BF81,290,26,N,1,"some descaling and caudal fraying, large scar from lat line to abdomen, thick body, pale gills"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,4,ADFL50,4,,625,,2884,53.6,26.8,5.6,,003BC3BF7E,250,23,N,5,2 fresh and 3 old lamprey marks; chrome
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,5,KL3,KL3,,539,,1800,60.6,29.8,5.9,,003BC3BFBF,290,21,N,2,"1 fresh and 1 old lamprey mark, skinny, chrome"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,6,ADFL51,6,,610,,2502,53.1,27.5,8,,003BC3BFC8,250,26,N,0,"slight caudal fin abrasion, great condition, NH sexed"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,7,ADFL52,7,,537,,1934,57.4,29,8,,003BC3BFB2,250,24,N,2,"lamprey marks old; bright, some scale loss, skinny, NH sexed"
+4/15/2017,NH,,angling,UKL,Shoalwater Bay,F,8,ADFL53,8,,665,,3514,41.8,24.6,8,,003BC3BF8C,290,23,N,0,"unknown red lesions above anal fin and below adipose and on caudal fin, possibly spawning related hemorrhaging, NH sexed, thick body"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,9,ADFL54,9,,548,,2284,61.2,28.3,8,,003BC3BFBA,250,25,Y,1,"lamprey mark old; lernaea in gills, bright chrome, deep bodied but laterally compressed, NH sexed"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,10,KL4,KL4,,615,,3052,57.9,26.3,8,,003BC3BFBB,250,21,N,3,"1 lengthwise abdominal lesion, thick fat body, double penetration on suture, NH sexed"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,11,ADFL55,11,,585,,2748,48.1,26.2,8.2,,003BC3BFC0,290,25,N,2,1 pectoral and 1 lateral LARGE fresh lamprey mark; NH sexed
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,12,KL6,KL6,,565,,2110,49.5,25.1,8.2,,003BC3BF8D,210,22,N,1,"lamprey mark pectoral; very frayed caudal fin, pale body, NH sexed"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,13,ADFL56,13,,525,,1630,57.9,26.3,8.2,,003BC3BFBD,210,20,Y,2,"lamprey marks on pectoral and anal, lernaea in gills, bright, skinny, NH sexed"
+4/15/2017,NH,,angling,UKL,Skillet Handle,M,14,ADFL57,14,,575,,2142,57.4,26.6,8.2,,003BC3BF74,210,24,N,1,"lamprey mark old; descaled, bright, 3 vertical lacerations, deep body, laterally compressed, NH sexed, anal fin lesion"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,15,ADFL58,15,,657,,2618,46.1,23.1,8.2,,003BC3BF7A,210,19,Y,4,"lamprey marks old, lots of lernaea, caudal fin lesion on dorsal side, strong kype, jaw abraded to bone, 2 ventral yellow spots, dark, probably post spawn"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,16,KL5,KL5,,587,,2382,51.7,24,8.2,,003BC3BF7C,210,23,N,3,"lamprey marks old, 1 elongate; caudal eroded/abraded, thick body but not deep, pale gills"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,17,ADFL59,17,,597,,2470,50.1,27.3,8.8,,003BC3BF68,210,16,Y,1,"PIT ID likely incorrect; detected before fish was tagged. lamprey mark very old, some lernaea in gills, chrome bright, great condition"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,18,ADFL60,18,,588,,2354,44,24.8,9.5,,003BC3BFB5,210,26,Y,3,"lamprey marks old, few lernaea in gills, prominent kype, spawned out male, dropped 1/2 ft"
+4/15/2017,NH,,angling,UKL,Shoalwater Marsh,M,19,ADFL61,19,,600,,2072,47.3,23.8,,,,,,N,2,"very dark, very prominent kype, descaled, likely spent make, caught w/ 2 lampreys on fish"
+4/15/2017,NH,,angling,UKL,Shoalwater Marsh,F,20,ADFL62,20,,548,,1928,49,27.6,9.8,,003BC3BF6F,210,25,Y,3,"lamprey marks old, many lernaea in gills"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,21,KL2,KL2,,570,,2438,47.5,25.8,,,003BC3BFCB,210,10,Y,0,"many lernaea in gills, pale, abraded caudal fin w/ lesion on dorsal side"
+4/15/2017,NH,,angling,UKL,Shoalwater Bay,F,22,ADFL63,22,,548,,1982,46.3,20.8,10.1,,003BC3BF6A,210,7,N,0,"dark, abraded caudal fin, dropped on surgical plane 1/2 ft"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,23,23,23,,614,,3252,47.3,24.2,10.6,,003BC3BF16,,,N,1,"lamprey mark fresh, on caudal fin; badly deformed right eye, abraded dorsal fin"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,24,24,24,,554,,2124,55.1,24.5,10.6,,003BC3BF90,,,N,3,"lamprey marks old; chrome, excellent condition"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,25,25,25,,660,,3058,46.5,25.4,,,003BC3BF78,,,,1,"lamprey mark old; regenerated scales, bright chrome (pic taken)"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,F,26,26,26,,528,,1568,54.8,26.6,,,003BC3BFAC,,,,1,"lamprey mark old; abraded upper jaw, ventral yellow spot, lesion on ventral caudal fin, sex uncertain - spawned out female?"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,27,27,27,,519,,1694,60.5,25,,,003BC3BF92,,,Y,1,lamprey mark fresh; several lernaea on dorsal
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,28,28,28,,485,,1138,57.6,23.2,11.1,,,,,,2,"lamprey marks old, 1 elongated; prominent kype, skinny, olive color"
+4/15/2017,NH,,angling,UKL,Eagle Ridge,M,29,29,29,,573,,2282,43.7,23.5,11.1,,,,,,5,"2 fresh marks on pectoral, 1 fresh on anal; chrome"
+4/15/2017,NH,,angling,UKL,Shoalwater Bay,F,30,30,30,,502,,1338,54.9,27.9,11.1,,003BC3BFB1,,,,,bright chrome
+4/15/2017,NH,,angling,UKL,Shoalwater Bay,F,31,31,31,,529,,1494,52.8,26.4,11.1,,003BC3BFA2,,,,1,"lamprey mark old, injured maxillary from previous catch"
+4/27/2017,MR,,angling,UKL,Shoalwater Marsh,,1,1,1,,450,,1120,68.1,32,,,,,,Y,,"healthy looking fish, body lacerations"
+4/27/2017,MR,,angling,UKL,Shoalwater Marsh,,2,2,2,,465,,1220,64,30.5,,,,,,Y,,copepods on anal and caudal fin
+4/27/2017,MR,,angling,UKL,Shoalwater Marsh,,3,3,3,,465,,1270,64.5,31.5,,,,,,Y,,"lamprey marks old, copepods on anal, dorsal, adipose fins"
+5/2/2017,NH,,angling,UKL,Shoalwater Marsh,M,1,1,1,,570,,2350,46.5,23,,22,,,,Y,,leech length unmarked while other 3 prey type unmarked with length 20 - likely leech = 20 mm
+5/2/2017,NH,,angling,UKL,Shoalwater Marsh,F,2,2,2,,530,,1360,49.5,25.6,,,,,,Y,,"spawned out female, yellow spots on lower mandible, 1 laceration on side, dark and discolored fins"
+5/2/2017,NH,,angling,UKL,Shoalwater Marsh,M,3,3,3,,595,,2288,,,,23,,,,Y,,"1 severe lamprey mark on dorsal, very slimy; bioimpedance was a=31.1 but could be 39.1 (handwriting unclear), b=22.6 so removed as outlier"
+5/2/2017,NH,,angling,UKL,Shoalwater Marsh,F,4,4,4,,500,,1220,55.1,26.2,,24,,,,Y,,"copepods on pec fins, left eye deformed, bright, skinny"
+5/2/2017,NH,,angling,UKL,Shoalwater Marsh,M,5,5,5,,570,,2314,43.8,22.9,,25,,,,N,,"colorful, healthy appearance"
+5/5/2017,NH,,angling,Agency L,,,1,1,1,,560,,1818,46.8,25.5,15.9,,,,,,1,went under <2 mins
+5/5/2017,NH,,angling,Agency L,,M,2,2,2,,560,,2106,38.6,22.5,15.7,,,,,N,5,"deformed left eye, pale, heavy scale loss, discolored fins"
+5/5/2017,NH,,angling,Agency L,,F,3,3,3,,364,,564,71,30.2,15.7,,,,,Y,2,"heavy scale loss, bright silver"
+5/5/2017,NH,,angling,Agency L,,M,4,4,4,,584,,2190,47.4,22.7,15.7,,003BC3BFC4,210,1,N,3,"flat wide head, heavy scale loss, yellow spot on pectoral"
+5/5/2017,NH,,angling,Agency L,,M,5,5,5,,590,,2350,41.9,21,15.6,,003BC3BFA7,210,4,Y,1,"only 2 copepods, small yellow spot on opercle, shredded and bleeding dorsal, hemhorrage in fins and ventral tissue"
+5/5/2017,NH,,angling,Agency L,,M,6,6,6,,523,,1578,56,25.1,15.5,,003BC3BF7B,210,18,N,0,"very bright chrome, prominent hump/shoulders, gravel embedded in ventral tissue, fins hemhorraging, several small red lesions"
+5/5/2017,NH,,angling,Agency L,,M,7,7,7,,551,,1802,52.5,24.5,15.4,,003BC3BF7D,210,15,N,0,hemhorraging and gravel on ventral side
+5/5/2017,NH,,angling,Agency L,,F,8,8,8,,509,,1606,50.9,25,15.3,,003BC3BF73,210,3,Y,3,"gaping laceration healing on ventral side, hemhorraging fins, lamprey marks on side, pelvic girdle and one fresh above lat line"
+5/5/2017,NH,,angling,Agency L,,M,9,9,9,,444,,1032,68.5,28.7,15.3,,003BC3BF80,210,2,N,0,"large descaled area colored orange, chrome, light hemhorrage on ventral and fins"
+5/5/2017,NH,,angling,Agency L,,M,10,10,10,,566,,2225,48.2,22,15.3,,003BC3BFC9,210,11,Y,3,"huge healed injury from back to ventral posterior to dorsal fin, 2 lamprey marks on side by dorsal, 1 on side above anal"
+5/5/2017,NH,,angling,Agency L,Petric Channel,F,11,11,11,,469,,1405,51.7,25,15.4,,003BC3BF9D,210,21,N,0,"little blood in eye, dark, old hook injury"
+5/5/2017,NH,,angling,Agency L,Petric Channel,F,12,12,12,,546,,2100,45.3,21.2,15.4,,003BC3BF26,290,5,N,1,"bright, lamprey mark on lat line above pelvic girdle, old hook injury, yellow spot anterior to pelvic, fin rot on pec fin, bleeder"
+5/5/2017,NH,,angling,Agency L,,F,13,13,13,,314,,906,86.5,28.4,15.4,,,,,N,0,"chrome, diet = 1 scud amphipod, 1 mayfly, 17 green midge 6 mm, 200 daphnia 1 mm, lacerations on back and side"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,14,KL7,14,,590,,2426,41.2,20.2,15.6,,003BC3BFA6,250,11,Y,1,"frayed dorsal, yellow spot near pectoral, lamprey mark above anal fin, pale gills"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",,15,15,15,,480,,928,57.9,22.7,15.6,,003BC3BFC1,210,13,Y,3,"caudal injury (broken bottom ray), bleeder, 2 lamprey marks above pelvic girdle and 1 near anal, skinny"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,16,16,16,,550,,1766,44.6,22.8,15.6,,003BC3BF97,210,5,N,1,"caudal fin rot, lamprey mark above anal, lesion on peduncle, yellow spot on pelvic"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,17,17,17,,650,,3662,44.2,20.2,15.6,,003BC3BF9F,210,14,N,1,"injury on lower jaw, lamprey mark above pelvic girdle, pelvic fin split"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,18,18,18,,610,,3040,39.1,20.8,14.9,,003BC3BF8F,210,9,Y,0,"bite out of caudal fin middle, healed wound above pec fins, great condition, bright small yellow spot between pec fins"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,19,19,19,,552,,1830,46.9,21.8,14.9,,003BC3BFAF,210,17,Y,0,"dark, skinny"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,20,20,20,,582,,2328,47.7,24,14.9,,003BC3BFAB,210,8,Y,0,"copepods and resulting sores all over body, bright, lisa says feels gushy like female"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,21,21,21,,605,,2758,38.3,19.1,14.9,,003BC3BF9B,210,6,N,0,"bright, severe bite out of caudal fin, frayed fins, tail rot?"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,22,22,22,,605,,2310,42.2,21.4,15.7,,003BC3BF99,210,12,N,5,"lamprey marks: 1 on pec fin, 2 above anal, 1 just behind pec"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,23,23,23,,495,,1602,55,23.5,15.7,232,,,,,0,"diet = 5 sculpin 102, 68, 59, 70, 81 mm, no diet photo"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,24,24,24,,500,,1322,49.5,22.5,15.7,233,,,,,0,"diet = blue chub 107 mm, 5 leeches approx. 65 mm, unid. insect wing, no diet photo"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,25,25,25,,499,,1344,48.1,22.9,15.7,234,,,,Y,2,"lamprey marks above anal and behind opercle on back, diet = blue chub 102mm, unid. fish 100 mm, fathead minnows 55, 50, 50 mm, 15 leeches approx. 60 mm"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,26,26,26,,660,,2712,39.5,19.2,15.2,235,,,,Y,2,"lamprey marks on chin and peduncle, diet = unid. fish parts (2 fathead minnows?) approx. 50 mm each"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,27,27,27,,503,,1534,45.5,21.4,15.2,236,,,,,1,"lamprey mark on caudal fin, tail rot, diet = blue chub 100 mm, 3 leeches approx. 25 mm, unid. fish 40 mm"
+5/5/2017,NH,,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",F,28,,,,650,,3284,36,17.8,15.2,237,,,,Y,0,"abraded lower jaw and opercle, huge adipose fin, diet = sculpin 70, 60 mm, unid. chub 120 mm, leech 120 mm"
+5/6/2017,NH,,angling,Spencer Ck,Spencer Ck,,1,,1,,216,,158,,,,,,,,,,prominent parr marks
+5/6/2017,NH,,angling,Spencer Ck,Spencer Ck,F,2,2,2,,342,,462,75.3,27.9,10.5,,003BC3BF95,170,14,N,0,healed laceration above pelvic girdle
+5/6/2017,NH,,angling,Spencer Ck,Spencer Ck,M,3,3,3,,292,,340,84.2,28.1,,,003BC3BF24,170,7,N,0,predator mark
+5/6/2017,NH,,angling,Spencer Ck,Spencer Ck,,4,4,4,,227,,120,165.2,37,10.5,,,,,N,0,prominent parr marks
+5/6/2017,NH,,angling,Spencer Ck,Spencer Ck,,5,5,5,,200,,112,173.1,39.8,10.5,,,,,N,0,prominent parr marks
+5/6/2017,NH,,angling,Spencer Ck,Spencer Ck,,6,6,6,,215,,116,172.5,40.4,10.5,,,,,N,0,
+5/17/2017,JO,,angling,UKL,Shoalwater Marsh,M,1,1,1,,575,,2060,47.7,26.2,,20,003BC3BF89,,,Y,,copepods on gills
+5/17/2017,JO,,angling,UKL,Shoalwater Marsh,F,2,2,2,,490,,1386,51.1,25,,21,003BC3BFC7,,,Y,,"copepods on gills, lamprey mark old"
+5/18/2017,MW,,angling,UKL,Eagle Ridge,F,1,1,1,,593,,2400,,,,29,003BC3BF64,,,N,,"empty stomach, though gastric lavage tool used was not functioning well, mass recorded as 2.4 kg"
+5/18/2017,MW,,angling,UKL,Eagle Ridge,M,2,2,2,,611,,3400,,,,30,003BC3BF72,,,Y,,mass recorded as 3.4 kg
+5/18/2017,MW,,angling,UKL,Eagle Ridge,M,3,3,3,,569,,2800,,,,31,,,,Y,,"yellow spot, tail fungus, mass recorded as 2.8 kg"
+5/18/2017,MW,,angling,UKL,Eagle Ridge,M,4,4,4,,621,,2900,,,,32,003BC3BF6E,,,Y,,"empty stomach, though gastric lavage tool used was not functioning well, mass recorded as 2.9"
+5/18/2017,MW,,angling,UKL,Eagle Ridge,M,5,5,5,,609,,2900,,,,,003BC3BF84,,,Y,,unclear if diet not taken or empty stomach
+5/18/2017,NH,,angling,UKL,Shoalwater Marsh,M,6,KL8,6,,580,,2338,49.3,26.2,,26,003BC3BFA1,,,N,,"chrome, lamprey marks = 2 dorsal, 1 caudal"
+5/18/2017,NH,,angling,UKL,Shoalwater Marsh,F,7,7,7,,670,,3078,41.5,20.7,,27,003BC3BF96,,,Y,,"copepods on anus, copepod marks on side, lamprey marks OLD - 1 ventral and 2 above anal fin, old hook injury - deformed maxilla, set #3 of pics in nick's phone"
+5/18/2017,NH,,angling,UKL,Shoalwater Marsh,M,8,8,8,,558,,2098,50.1,25.3,,28,003BC3BF83,,,,,"chub lengths = 120, 105, 175 mm, set #2 of pics in nick's phone"
+5/19/2017,TW,,angling,UKL,Eagle Ridge,F,1,1,1,,565,,1920,46.5,21.5,,33,003BC3BF5D,,,Y,,"20170519-JO1, kelt, lamprey marks healed"
+5/19/2017,TW,,angling,UKL,Eagle Ridge,F,2,2,2,,544,,1804,48.7,25.9,,34,003BC3BF6C,,,Y,,"20170519-JO2, lamprey marks recorded as ""4 fresh healed"", copepods minimal, unlabeled other diet item x 3 at 2 mm"
+5/19/2017,TW,,angling,UKL,Eagle Ridge,F,3,3,3,,592,,2608,40.7,21.5,,35,003BC3BF3B,,,N,,"unmeasurable fathead skeletal parts, eroded dorsal, 20170519-JO3"
+5/22/2017,MR,,angling,UKL,Skillet Handle,F,1,1,1,,620,,2782,41.2,24.1,,,,,,Y,,"no diet taken, hit gill arch but fish recovered fully"
+5/22/2017,MR,,angling,UKL,Skillet Handle,M,2,2,2,,649,,3068,45.5,21.8,,36,003BC3BF85,,,N,,"yellow spot, bad lesion on left side, healthy specimen, mort"
+5/23/2017,WT,,angling,Keno,Topsy,,1,1,1,,207,,112,129.4,29.1,,,003BC3BF3F,,,N,,mayfly and caddis parts in diet but diet disregarded due to insects in lavage water
+5/23/2017,WT,,angling,Keno,Topsy,,2,2,2,,200,,90,149.5,39,,37,003BC3BFB0,,,N,,good condition per WT
+5/23/2017,WT,,angling,Keno,Topsy,,3,3,3,,275,,286,70.9,29.6,,38,003BC3BF2A,,,N,,
+5/23/2017,WT,,angling,Keno,Topsy,,4,4,4,,259,,232,72.2,23.7,,39,003BC3BF55,,,N,,
+5/23/2017,WT,,angling,Keno,Topsy,,5,5,5,,104,,18,,,,,,,,N,,"no diet, mort"
+5/23/2017,WT,,angling,Keno,Topsy,,6,6,6,,170,,88,,,,40,,,,,,also beetle larva 4 mm
+5/26/2017,NH,,angling,Keno,Keno Dam,,1,KENO1,1,,317,,416,61.5,21,18.2,,003BC3BF25,170,15,N,0,"long transport, scale loss, deformed eyes (catlike), not given sedation and recovered well, temp read 18.8 at 1pm"
+5/26/2017,NH,,angling,Keno,Keno Dam,F,2,KENO2,2,,414,,870,50.2,19.8,19.7,,003BC3BFC6,170,8,N,0,"went under at 1:30, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/26/2017,NH,,angling,Keno,Keno Dam,F,3,KENO3,3,,428,,904,54.5,20.3,19.6,,003BC3BF06,170,4,N,1,"yellow spot between pectorals, 1 predation mark/laceration, questionable lamprey mark on peduncle - see nick's phone for photo, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/26/2017,NH,,angling,Keno,Keno Dam,,4,KENO4,4,,305,,402,72.4,26,,,003BC3BF42,170,9,N,0,thermal shock - transferred from 18.5C river to 14.8C tank for holding
+5/26/2017,NH,,angling,Keno,Keno Dam,M,5,KENO5,5,,340,,484,74.6,24.7,19.4,,003BC3BF13,170,12,N,0,"pale, skinnier, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/26/2017,NH,,angling,Keno,Keno Dam,,6,KENO6,6,,336,,542,65.3,23.9,19.1,,003BC3BF5A,170,10,N,0,thermal shock - transferred from 18.5C river to 14.8C tank for holding
+5/26/2017,NH,,angling,Keno,Keno Dam,,7,,,,419,,800,50.1,18.2,19.1,,,,,N,1,"lamprey below dorsal, bite out of bottom of caudal, very pale and dying, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/26/2017,NH,,angling,Keno,Keno Dam,F,8,KENO7,8,,350,,630,58.2,22,19.1,,003BC3BF15,170,1,N,0,"fat, colorful, great condition, bleeder, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/26/2017,NH,,angling,Keno,Keno Dam,M,9,KENO8,9,,386,,738,56.6,24.2,19.1,,003BC3BF48,170,13,N,0,"yellow dot in front of pectoral, good condition, colorful"
+5/26/2017,NH,,angling,Keno,Keno Dam,M,10,KENO9,10,,354,,584,61,22.7,19.1,,003BC3BF4A,170,11,N,0,"lots of scale loss, yellow dot behind pectoral, somewhat dark/muted color"
+5/26/2017,NH,,angling,Keno,Keno Dam,,11,KENO10,11,,417,,870,48,18.6,19.1,,,,,N,0,"went down 30s sooner than others, heavily descaled, dry (no slime), pale"
+5/26/2017,NH,,angling,Keno,Keno Dam,,12,KENO11,12,,343,,546,,,,,,,,N,0,"mort, diet = empty/digested mush"
+5/26/2017,NH,,angling,Keno,Keno Dam,,13,KENO12,13,,365,,620,,,,,,,,N,0,"mort, diet = 4 unid. fish approx. 55 mm, 1 diving beetle larva 30 mm"
+5/26/2017,NH,,angling,Keno,Keno Dam,,14,KENO13,14,,282,,338,79.9,28.7,18.7,,003BC3BFAD,170,3,Y,0,"some scale loss, only 1 copepod on dorsal"
+5/26/2017,NH,,angling,Keno,Keno Dam,F,15,KENO14,15,,476,,1376,39.8,16.6,18.4,,003BC3BF17,170,5,N,0,"very bright red coloring, top of caudal missing, skinny"
+5/26/2017,NH,,angling,Keno,Keno Dam,,16,KENO15,16,,393,,766,58.9,24.7,18.4,,003BC3BFA0,170,2,N,0,"missing left pelvic fin, jaw injury, scale loss, rough texture"
+5/26/2017,NH,,angling,Keno,Keno Dam,,17,KENO16,17,,256,,238,100.8,31.3,18.4,,,,,N,0,eye and jaw injury
+7/14/2017,WT,,angling,Wood Delta,Wood Delta,M,1,,,,605,,2086,,,,13,,,,N,,"Looked like a female, small nub on lower jaw, slightly skinny"
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,1,1,,210,,,,,,,,,,,,
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,2,2,,212,,,,,,,,,,,,
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,3,3,,185,,,,,,,,,,,,girth 90mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,4,4,,245,,,,,,,,,,,,girth 110mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,5,5,,295,,,,,,,,,,,,girth 130mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,6,6,,184,,,,,,,,,,,,girth 91mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,7,7,,235,,,,,,,,,,,,girth 115mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,8,8,,258,,,,,,,,,,,,girth 127mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,9,9,,215,,,,,,,,,,,,girth 100mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,10,10,,355,,,,,,,,,,,,girth 150mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,11,11,,342,,,,,,,,,,,,girth 193mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,12,12,,193,,,,,,,,,,,,girth 96mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,13,13,,185,,,,,,,,,,,,girth 85mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,14,14,,315,,,,,,,,,,,,girth 150mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,15,15,,270,,,,,,,,,,,,girth 117mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,16,16,,285,,,,,,,,,,,,girth 135mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,17,17,,184,,,,,,,,,,,,
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,18,18,,174,,,,,,,,,,,,girth 84mm
+7/18/2017,NH,JO,angling,Sprague,Kamkaun,,,19,19,,164,,,,,,,,,,,,girth 91mm
+7/19/2017,NH,,angling,Pelican Bay,Recreation Ck,M,1,1,1,,530,,1564,53.5,21.1,,14,,,,,,
+7/19/2017,NH,,angling,Pelican Bay,Recreation Ck,M,2,2,2,,469,,1154,62.4,26.7,,15,,,,Y,,"lamprey wounds healed, midges were pupae, gayle captured, caudal fin light copepod load, yellow bacteria"
+7/19/2017,NH,,angling,Pelican Bay,Recreation Ck,F,3,3,3,,585,,2490,,,,16,,,,,,"mort redband empty, dead shortnose sucker near rocky pt resort"
+7/19/2017,NH,,angling,Pelican Bay,Recreation Ck,U,4,4,4,,369,,380,86,26,,17,,,,Y,,"lamprey wounds healed, light copepods, skinny"
+7/19/2017,NH,,angling,Pelican Bay,Recreation Ck,F,5,5,5,,530,,1390,51.9,21.8,,18,,,,N,,"empty stomach, tapioca disease? (actually copepod marks per bill -NH)"
+7/19/2017,NH,,angling,Pelican Bay,Recreation Ck,M,6,6,6,,470,,1290,60,21.7,,19,,,,Y,,"tail frayed, heavy copepods, possible very old healed lamprey mark"
+8/14/2017,JO,NH,mort,Pelican Bay,Harriman Ck,,,1,1,,215,,,,,,,,,,,,
+8/15/2017,volunteer,LO,angling,Williamson,,,,WL7,,14.5,,,,,,,,,,,,,
+8/15/2017,volunteer,LO,angling,Williamson,,,,WL3,,17,,,,,,,,,,,,,
+8/15/2017,volunteer,LO,angling,Williamson,,,,WL6,,20.5,,,,,,,,,,,,,
+8/16/2017,volunteer,DG,angling,Wood Delta,Wood Delta,F,,WR9,,20.5,,,,,,,,,,,,,
+8/16/2017,volunteer,DG,angling,Wood Delta,Wood Delta,F,,2,,19,,,,,,,,,,,,,
+8/16/2017,volunteer,DG,angling,Wood Delta,Wood Delta,F,,3,,21,,,,,,,,,,,,,
+8/16/2017,volunteer,DG,angling,Wood Delta,Wood Delta,,,4,,12.5,,,,,,,,,,,,,
+8/16/2017,volunteer,DG,angling,Wood Delta,Wood Delta,,,5,,14,,,,,,,,,,,,,
+8/16/2017,volunteer,DL,angling,Williamson,,,,6,,13,,,,,,,,,,,,,
+8/16/2017,volunteer,DG,angling,Wood Delta,Wood Delta,F,,7,,23.25,,,,,,,,,,,,,
+8/16/2017,volunteer,DL,angling,Williamson,,,,WL1,,19.5,,,,,,,,,,,,,
+8/16/2017,volunteer,DL,angling,Williamson,,,,WL2,,17,,,,,,,,,,,,,
+8/16/2017,volunteer,DL,angling,Williamson,,,,WL4,,23.25,,,,,,,,,,,,,
+8/16/2017,volunteer,DL,angling,Williamson,,,,WL5,,24,,,,,,,,,,,,,
+8/17/2017,volunteer,DG,angling,Wood Delta,Wood Delta,M,,WR10,,22,,,,,,,,,,,,,hook jaw
+8/18/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,,,,,,,,,,,,,,
+8/18/2017,volunteer,DG,angling,Wood Delta,Wood Delta,,,2,,,,,,,,,,,,,,,
+8/18/2017,volunteer,DG,angling,Wood Delta,Wood Delta,,,3,,,,,,,,,,,,,,,
+8/18/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,PB5,,29.25,,,,,,,,,,,,,
+8/18/2017,volunteer,DG,angling,Wood Delta,Wood Delta,F,,WR1,,22,,,,,,,,,,,,,
+8/18/2017,volunteer,DG,angling,Wood Delta,Wood Delta,F,,WR3,,23.5,,,,,,,,,,,,,
+8/19/2017,volunteer,LO,angling,Pelican Bay,Harriman Ck,,,1,,24.25,,,,,,,,,,,,,
+8/19/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,2,,24,,,,,,,,,,,,,
+8/19/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,3,,25.125,,,,,,,,,,,,,
+8/19/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,4,,15.5,,,,,,,,,,,,,
+8/19/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,PB4,,24.25,,,,,,,,,,,,,
+8/19/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,PB6,,26,,,,,,,,,,,,,
+8/20/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,24.125,,,,,,,,,,,,,
+8/20/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,2,,24.5,,,,,,,,,,,,,
+8/20/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,3,,21.5,,,,,,,,,,,,,
+8/20/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,4,,27.5,,,,,,,,,,,,,
+8/20/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,5,,28,,,,,,,,,,,,,
+8/20/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,6,,20.5,,,,,,,,,,,,,
+8/21/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,26,,,,,,,,,,,,,
+8/21/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,2,,28.5,,,,,,,,,,,,,
+8/21/2017,volunteer,CF,angling,Wood Delta,Wood River,,,3,,13,,,,,,,,,,,,,
+8/21/2017,volunteer,CF,angling,Wood Delta,Wood Delta,M,,WR4,,21,,3,,,,,,,,,,,
+8/21/2017,volunteer,CF,angling,Wood Delta,Wood Delta,F,,WR6,,24,,4,,,,,,,,,,,no bad marks
+8/22/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,22,,,,,,,,,,,,,
+8/23/2017,volunteer,CF,angling,Wood Delta,Wood Delta,,,1,,20,,,,,,,,,,,,,
+8/23/2017,volunteer,CF,angling,Wood Delta,Wood Delta,,,2,,17,,,,,,,,,,,,,
+8/23/2017,volunteer,CF,angling,Wood Delta,Wood River,,,3,,16,,,,,,,,,,,,,
+8/23/2017,volunteer,CF,angling,Wood Delta,Wood Delta,F,,WR2,,18,,,,,,,,,,,,,clean
+8/23/2017,volunteer,CF,angling,Wood Delta,Wood Delta,,,WR5,,25,,,,,,,,,,,,,good shape
+8/24/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,23.75,,,,,,,,,,,,,
+8/24/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,2,,26.125,,,,,,,,,,,,,
+8/24/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,3,,27.25,,,,,,,,,,,,,
+8/24/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,4,,25.5,,,,,,,,,,,,,
+8/24/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,5,,21.25,,,,,,,,,,,,,
+8/25/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,24,,,,,,,,,,,,,
+8/25/2017,volunteer,CF,angling,Wood Delta,Wood Delta,,,2,,22,,,,,,,,,,,,,
+8/26/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,23.5,,,,,,,,,,,,,
+8/26/2017,volunteer,DL,angling,Wood Delta,,,,2,,18,,,,,,,,,,,,,
+8/26/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,3,,24.25,,,,,,,,,,,,,
+8/28/2017,volunteer,DL,angling,Wood Delta,,,,1,,13,,,,,,,,,,,,,"labeled ""wood"""
+8/28/2017,volunteer,DL,angling,Wood Delta,,,,2,,10,,,,,,,,,,,,,"labeled ""wood"""
+8/28/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,3,,22,,,,,,,,,,,,,
+8/29/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,23.5,,,,,,,,,,,,,
+9/1/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,23,,,,,,,,,,,,,
+9/2/2017,volunteer,LO,angling,Williamson,,,,1,,12,,,,,,,,,,,,,
+9/2/2017,volunteer,LO,angling,Williamson,,,,WL8,,14.5,,,,,,,,,,,,,
+9/2/2017,volunteer,LO,angling,Williamson,,,,WL9,,15,,,,,,,,,,,,,
+9/5/2017,volunteer,LO,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,1,,23,,,,,,,,,,,,,
+9/5/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,2,,24,,,,,,,,,,,,,
+9/5/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,3,,24,,,,,,,,,,,,,
+9/6/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,16,,,,,,,,,,,,,
+9/6/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,2,,20,,,,,,,,,,,,,
+9/6/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,3,,25.5,,,,,,,,,,,,,
+9/7/2017,volunteer,DL,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,,3,,29.5,,,,,,,,,,,,,
+9/7/2017,JO,,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,,1,,,539,,1968,,,,,,,,,,
+9/7/2017,JO,,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,,2,,,475,,1308,,,,,,,,,,
+9/7/2017,JO,,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,,PB2,,,585,,2402,,,,,,,,,,
+9/7/2017,JO,,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,,PB3,,,545,,1892,,,,,,,,,,
+9/10/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,1,,23.5,,,,,,,,,,,,,
+9/10/2017,volunteer,LO,angling,Pelican Bay,Recreation Ck,,,2,,25.25,,,,,,,,,,,,,
+9/13/2017,JO,WT,mort,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,,PB1,,,625,,,,,,,,,,N,,DO deprivation
+9/14/2017,volunteer,MM,angling,Williamson,Chiloquin to 97,,,1,,11,,,,,,,,,,,,,"bottom edge lonesome duck riffle, water 56F"
+9/22/2017,volunteer,CF,angling,Wood Delta,Wood Delta,F,,1,,18,,,,,,,,,,,,,
+9/23/2017,volunteer,CF,angling,Wood Delta,Wood Delta,F,,1,,21,,,,,,,,,,,,,
+9/30/2017,volunteer,LO,angling,Pelican Bay,Harriman Ck,,,1,,17.5,,,,,,,,,,,,,
+9/30/2017,volunteer,LO,angling,Pelican Bay,Harriman Ck,,,2,,18.25,,,,,,,,,,,,,
+9/30/2017,volunteer,LO,angling,Pelican Bay,Harriman Ck,,,3,,17.25,,,,,,,,,,,,,
+10/8/2017,volunteer,LO,angling,Agency L,,,,1,,25.125,,,,,,,,,,,,,
+10/13/2017,volunteer,LO,angling,Agency L,,,,1,,29,,,,,,,,,,,,,
+10/20/2017,volunteer,LO,angling,Sprague,,,,1,,24.5,,,,,,,,,,,,,
+10/22/2017,volunteer,LO,angling,Sprague,,,,1,,24,,,,,,,,,,,,,
+10/28/2017,volunteer,LO,angling,Sprague,,,,1,,23,,,,,,,,,,,,,
+10/28/2017,volunteer,LO,angling,Sprague,,,,2,,27,,,,,,,,,,,,,
+11/25/2017,volunteer,"DQ,MD",angling,,Eulalona,F,,1,,22.5,,,,,,,,,,,,,
+11/27/2017,WT,,mort,Sunnybrook,,M,,ADFL4,,25,,,,,,,,,,,,,
+11/29/2017,volunteer,"DQ,MD",angling,,Social Security,M,,1,,21.75,,,,,,,,,,,,,
+12/2/2017,volunteer,"DQ,MD",angling,,Social Security,M,,1,,25.75,,8.25,,,,,,,,,,,
+12/7/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,,,1,,21.5,,6,,,,,,,,,,,
+12/7/2017,WT,,mort,Sunnybrook,,,,ADFL5,,,,,,,,,,,,,,,"skin sample, not fin"
+12/7/2017,WT,,mort,Sunnybrook,,M,,ADFL6,,19,,,,,,,,,,,,,
+12/7/2017,WT,,mort,Sunnybrook,,,,ADFL7,,,,,,,,,,,,,,,"skin sample, not fin"
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,,1,,,,464,,1380,,,,207,003BC3BF9A,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,,2,,,,355,,518,,,,208,003BC3BF66,,,,,recap
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,M,3,,,,380,,666,,,,209,003BC3BFA5,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,M,4,,,,380,,650,,,,210,003BC3BF6D,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,F,5,,,,390,,740,,,,211,003BC3BF88,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,,6,,,,347,,442,,,,212,003BC3BF94,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,,7,,,,353,,580,,,,213,003BC3BFB4,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,F,8,,,,378,,636,,,,214,003BC3BFA4,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,F,9,,,,307,,382,,,,215,003BC3BFB6,,,,,
+12/9/2017,NH,"WT,JA,MH,MW",angling,Keno,Powerlines,,10,,,,376,,616,,,,216,003BC3BFC2,,,,,
+12/9/2017,volunteer,"DQ,MD",angling,,Eulalona,F,,1,,21.5,,3.5,,,,,,,,,,,
+12/10/2017,volunteer,"DQ,MD",angling,,Eulalona,F,,1,,25.5,,8,,,,,,,,,,,
+12/11/2017,volunteer,"DQ,MD",angling,,Eulalona,,,1,,19.5,,,,,,,,,,,,,
+12/13/2017,volunteer,"DQ,MD",angling,,Eulalona,,,1,,18,,,,,,,,,,,,,spawner
+12/14/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,,,1,,20,,5,,,,,,,,,,,
+12/14/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,,,1,,25.5,,9,,,,,,,,,,,
+12/15/2017,volunteer,"DQ,MD",angling,,Eulalona,,,1,,19,,,,,,,,,,,,,
+12/15/2017,volunteer,"DQ,MD",angling,,Eulalona,,,2,,23.5,,4.5,,,,,,,,,,,
+12/16/2017,volunteer,"DQ,MD",angling,,Eulalona,,,1,,18.5,,,,,,,,,,,,,
+12/19/2017,volunteer,"DQ,MD",angling,,Eulalona,M,,1,,23,,5.75,,,,,,,,,,,
+12/20/2017,volunteer,"DQ,MD",angling,,Eulalona,F,,1,,23.5,,6.25,,,,,,,,,,,
+12/22/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,F,,1,,24,,7.25,,,,,,,,,,,
+12/23/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,F,,1,,24.5,,6.5,,,,,,,,,,,
+12/24/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,,,2,,18.5,,,,,,,,,,,,,
+12/24/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,,,3,,23,,5,,,,,,,,,,,
+12/27/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,,,1,,18.5,,,,,,,,,,,,,spawner
+12/27/2017,volunteer,"DQ,MD",angling,UKL,Putnam Point,F,,2,,19.5,,,,,,,,,,,,,
+12/28/2017,WT,,mort,Sunnybrook,,,,1,,,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,,,2,,23,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,,,3,,23,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,,,4,,21,,,,,,,,,,,,,"spawner, spawned out. Skin sample, not fin"
+12/28/2017,WT,,mort,Sunnybrook,,,,5,,20,,,,,,,,,,,,,"spawner, predation. Skin sample, not fin"
+12/28/2017,WT,,mort,Sunnybrook,,,,6,,20,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,,,7,,17,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,,,8,,,,,,,,,,,,,,,"spawner, predation. Skin sample, not fin"
+12/28/2017,WT,,mort,Sunnybrook,,,,9,,19,,,,,,,,,,,,,"spawner, spawned out. Skin sample, not fin"
+12/28/2017,WT,,mort,Sunnybrook,,,,10,,,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,M,,11,11,,511,,,,,,,,,,,,"spawner, spawned out"
+12/28/2017,WT,,mort,Sunnybrook,,M,,12,,,,,,,,,,,,,,,"spawner, predation"
+12/28/2017,WT,,mort,Sunnybrook,,,,13,,20,,,,,,,,,,,,,"spawner, predation"
+1/4/2018,WT,,mort,Sunnybrook,,,,1,,,,,,,,,,,,,,,"spawner, predation. B. ray sample, not fin"
+1/4/2018,WT,,mort,Sunnybrook,,,,2,,,,,,,,,,,,,,,"spawner, predation"
+1/4/2018,WT,,mort,Sunnybrook,,,,3,,,,,,,,,,,,,,,"spawner, predation"
+1/4/2018,WT,,mort,Sunnybrook,,M,,SB1,SB1,,715,,,,,,,,,,,,"spawner, predation"
+1/4/2018,WT,,mort,Sunnybrook,,M,,SB5,,24,,,,,,,,,,,,,"spawner, predation. B. ray sample, not fin"
+1/4/2018,WT,,mort,Sunnybrook,,M,,SB6,SB6,23,,,,,,,,,,,,,
+1/10/2018,WT,,mort,Agency Ck,,,,1,,,,,,,,,,,,,,,"spawner, predation"
+1/10/2018,WT,,mort,Agency Ck,,,,2,,,,,,,,,,,,,,,"spawner, predation"
+1/10/2018,WT,,mort,Agency Ck,,,,3,,,,,,,,,,,,,,,"spawner, predation"
+1/13/2018,WT,,mort,Sunnybrook,,F,,SB2,SB2,,496,,,,,,,,,,,,"spawner, predation"
+1/13/2018,WT,,mort,Sunnybrook,,M,,SB4,SB4,,714,,,,,,,,,,,,"spawner, predation"
+1/13/2018,JA,,mort,Sunnybrook,,,,,,,,,,,,,,,,,,,otolith
+1/26/2018,WT,,mort,Sunnybrook,,M,,SB3,SB3,22,,,,,,,,,,,,,"spawner, predation"
+2/4/2018,WT,,mort,Sprague,Kamkaun,,,1,,24,,,,,,,,,,,,,"spawner, predation"
+3/2/2018,WT,,mort,Fort Ck,,M,,1,,,560,,,,,,,,,,,,"spawner, predation"
+3/16/2018,WT,,mort,Sunnybrook,,M,,1,,21,,,,,,,,,,,,,"spawner, predation. Sex questionable"
+4/3/2018,WT,,mort,Williamson,Weir,M,,ADFL8,,,585,,,,,,,,,,,,sent to odfw fish path
+4/17/2018,WT,,mort,Williamson,Weir,F,,ADFL9,,,610,,,,,,,,,,,,sent to odfw fish path
+4/19/2018,WT,,mort,UKL,,M,,ADFL10,,,620,,,,,,,,,,,,
+4/24/2018,WT,,creel,UKL,Howard Bay,M,,2,2,24.5,,6.25,,,,,,,,,,,"bright, good condition"
+4/24/2018,WT,,mort,Williamson,Weir,F,,ADFL11,,27.75,,,,,,,,,,,,,sent to odfw fish path
+5/1/2018,WT,,mort,UKL,Ouxy,,,1,,18,,,,,,,,,,,,,sent to odfw fish path
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,1,KL9,1,,565,,2394,57.2,26.2,,1,003BC3BF41,,,N,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,2,KL10,2,,480,,1324,52.1,28.5,,2,003BC3BF39,,,N,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,3,3,3,,510,,1756,48.5,25.5,,3,003BC3BF4B,,,N,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,4,4,4,,589,,2242,40.8,22,,4,003BC3BF50,,,Y,,caudal fin red and damaged likely from spawning. Kelt. Copepods on tail and gills
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,5,5,5,,523,,1508,45.4,22.2,,5,003BC3BFBE,,,Y,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,6,6,6,,555,,2126,45.8,24.7,,6,003BC3BF2F,,,Y,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,7,7,7,,550,,2056,53,25.4,,7,003BC3BF49,,,N,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,8,8,8,,554,,1988,47.9,22.6,,,003BC3BF45,,,N,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,9,9,9,,600,,2438,40,19.8,,,003BC3BF5F,,,,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,10,10,10,,585,,2218,43.5,23.9,,,,,,,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,11,11,11,,612,,2886,42.9,22.4,,,,,,,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,12,12,12,,550,,1734,46.5,25.5,,,,,,,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,M,13,13,13,,630,,3128,39,22.6,,,,,,,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,14,14,14,,588,,2234,42.7,24.2,,217,,,,Y,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,15,15,15,,578,,2792,46.1,22.9,,8,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,M,16,16,16,,579,,2088,37.7,19.3,,,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,M,17,17,17,,616,,2602,38.2,21.3,,,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,M,18,18,18,,580,,2210,39.8,22.7,,,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,F,19,19,19,,610,,2936,37.3,22.2,,,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,,20,20,20,,589,,2460,42.3,23.1,,,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,,21,21,21,,602,,2504,40.5,22.3,,,,,,,,
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,F,22,22,22,,570,,2342,42.1,23.8,,,,,,,,
+5/14/2018,NH,"JO,WT",angling,UKL,Shoalwater/Eagle Ridge,F,,,,,644,,2236,36,18.1,,9,,,,,,"Sampling mort from earlier in day. Approx. FL, diet and sex from cutting open afterwards. Very bright, good condition, missing adipose fin and dorsal fin rays bent suggesting hatchery orgin. Little spotting"
+5/14/2018,WT,"NH,JO,CD",angling,UKL,Shoalwater/Eagle Ridge,F,,,,,578,,,,,,10,,,,,,"Sampling mort from earlier in day. Approx. FL, diet and sex from cutting open afterwards. One minnow at 250 mm. Good condition"
+5/14/2018,NH,"JO,WT,CD",angling,UKL,Shoalwater/Eagle Ridge,F,,,,,603,,,,,,11,,,,,,"Sampling mort from earlier in day. Approx. FL, diet and sex from cutting open afterwards. Gill flamed and mouth wide open. Dorsal fin eroded and rotting. Fair condition. Identified originally as male"
+5/14/2018,WT,"NH,JO,CD",angling,UKL,Shoalwater/Eagle Ridge,F,,,,,597,,,,,,12,,,,,,"Sampling mort from earlier in day. Approx. FL, diet and sex from cutting open afterwards. Good condition. Heavy spotting. Fresh lamprey wound on ventral side near operculum and maxillary"
+5/19/2018,CD,JO,angling,UKL,Howard Bay,,1,ADFL14,1,,504,,1520,46,22,,,,,,,,wt questionable
+5/19/2018,CD,JO,angling,UKL,Howard Bay,F,2,ADFL15,2,,574,,2280,42.2,24.3,,,,,,,,wt questionable
+5/19/2018,CD,JO,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,3,ADFL16,3,,550,,2232,47.9,23.4,,,,,,,,wt questionable
+5/19/2018,CD,JO,angling,UKL,Howard Bay,F,4,ADFL17,4,,505,,1480,44.5,23.5,,,,,,,,wt questionable
+5/19/2018,CD,JO,angling,UKL,Howard Bay,,5,ADFL18,5,,544,,1980,40,23.9,,,,,,,,wt questionable
+5/21/2018,CD,JO,angling,UKL,Howard Bay,M,1,ADFL19,1,,590,,2230,42.9,24.9,,,,,,,,
+5/21/2018,CD,JO,angling,UKL,Howard Bay,F,2,ADFL20,2,,585,,2120,44.4,24.5,,,,,,,,
+5/21/2018,CD,JO,angling,UKL,Howard Bay,F,3,ADFL21,3,,662,,3080,39.1,23.6,,,,,,,,
+5/22/2018,WT,,mort,Williamson,Weir,M,,ADFL12,1,27.25,,7.5,,,,,,,,,,,
+5/22/2018,WT,,mort,Williamson,Weir,M,,ADFL13,2,27.25,,7.5,,,,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,1,KENO17,1,,368,,874,50.3,22.1,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,2,KENO18,2,,364,,654,59.1,24.5,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,3,KENO19,3,,384,,812,50.7,21.5,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,4,KENO20,4,,339,,540,66.7,25.4,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,5,KENO21,5,,325,,528,60.9,22.3,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,6,KENO22,6,,358,,554,56.6,21.3,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,7,KENO23,7,,421,,1154,47.9,21.1,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,8,KENO24,8,,375,,854,56.3,24.3,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,9,KENO25,9,,345,,666,58.3,23.7,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,10,KENO26,10,,389,,850,55,23,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,11,KENO27,11,,294,,392,75.9,27,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,12,KENO28,12,,366,,702,55.4,22.6,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,13,KENO29,13,,295,,416,65.2,22,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,14,KENO30,14,,366,,700,62,22.6,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,15,KENO31,15,,421,,1046,50.6,20.4,,,,,,,,wt questionable
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,16,KENO32,16,,335,,540,64.5,24.2,,,,,,,,wt questionable
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,17,KENO33,17,,349,,566,57.2,21.1,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,18,KENO34,18,,345,,634,57.9,21.6,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,19,KENO35,,,344,,578,63.1,24.6,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,20,KENO36,,,350,,600,67.9,26,,,,,,,,
+5/25/2018,NH,JO,angling,Keno,Keno Dam,,21,KENO37,,,397,,854,59.4,24.5,,,,,,,,
+5/29/2018,JO,,angling,Keno,Keno Dam,,1,,,,367,,696,58.1,24.3,,,,,,,,
+5/29/2018,JO,,angling,Keno,Keno Dam,,2,,,,274,,324,84.6,26.7,,,,,,,,
+5/29/2018,JO,,angling,Keno,Keno Dam,,3,,,,400,,1052,60.2,24.8,,,,,,,,
+5/29/2018,JO,,angling,Keno,Keno Dam,,4,,,,382,,828,58,23.1,,,,,,,,
+5/30/2018,NH,"JO,CD",angling,UKL,Eagle Ridge,M,1,1,1,,720,,3680,33.7,18.2,,,,,,,,"FL approximate, too long for board"
+5/30/2018,NH,"JO,CD",angling,UKL,Eagle Ridge,M,2,2,2,,630,,,40.2,21.2,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,3,KENO38,3,,378,,730,61,25.7,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,4,KENO39,4,,412,,1080,54.1,22.8,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,5,KENO40,5,,365,,710,59.1,24.2,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,6,KENO41,6,,376,,725,56.9,23.2,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,7,KENO42,7,,394,,870,61.5,26.4,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,8,KENO43,8,,289,,315,85.2,28.6,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,9,KENO44,9,,344,,520,77.1,27.7,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,10,KENO45,10,,213,,140,150,46.2,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,11,KENO46,11,,424,,1140,55,25,,,,,,,,
+5/30/2018,NH,JO,angling,Keno,Keno Dam,,,,,,374,,,61.9,25,,,,,,,,
+6/4/2018,JO,NH,angling,UKL,Eagle Ridge,,1,1,1,,519,,1430,49.3,27.6,,,,,,,,
+6/4/2018,JO,NH,angling,UKL,Eagle Ridge,,2,2,2,,634,,3140,37,19.9,,,,,,,,
+6/5/2018,CD,,angling,Keno,Keno Dam,,1,KENO47,1,,320,,,,,,,,,,,,
+6/6/2018,NH,JO,angling,Keno,Keno Dam,,1,KENO48,1,,325,,530,65.1,24,,,,,,,,
+6/6/2018,NH,JO,angling,Keno,Keno Dam,,2,KENO49,2,,341,,585,69.6,24.7,,,,,,,,
+6/8/2018,NH,JO,angling,UKL,Eagle Ridge,M,1,1,1,,661,,3510,44.7,22,,52,,,,,,"""chrome diddly omski"" -Jordan"
+6/8/2018,NH,JO,angling,UKL,Eagle Ridge,,2,2,2,,629,,2090,38.3,21.2,,53,,,,,,"beat up. Windy, weight questionable"
+6/8/2018,NH,JO,angling,UKL,Eagle Ridge,,3,3,3,,570,,1940,46.3,21.9,,54,,,,,,chunk missing from operculum
+6/8/2018,NH,JO,angling,Keno,Keno Dam,,4,KENO50,4,,320,,440,71.6,25,,,,,,,,
+6/11/2018,JO,,angling,UKL,Eagle Ridge,M,1,1,1,,546,,1810,43.3,22.6,,55,,,,,,
+6/13/2018,JO,NH,angling,UKL,Shoalwater Bay,,1,1,1,,640,,3190,45.6,20.5,,56,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,F,1,,,,576,,2440,46.7,27.4,,41,,,,,,"dark but good condition, some predaceous diving beetles recently consumed/alive"
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,,2,,,,584,,2405,51.2,27.5,,42,,,,,,dark but good condition
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,,3,,,,611,,3515,44.3,19.3,,,,,,,,dark but good condition
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,,4,,,,575,,2750,48.3,21.1,,43,,,,,,good condition
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,M,5,,,,575,,2750,46.9,20.4,,44,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,,6,,,,519,,1835,49.4,21.3,,45,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,M,7,,,,714,,4650,45.5,17.7,,,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,,8,,,,477,,1380,55.6,24,,,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,F,9,,,,590,,2795,49.8,21.7,,46,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,F,10,,,,600,,3115,46.9,20.9,,47,,,,,,looks like post spawn
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,F,11,,,,515,,1595,55,23.7,,48,,,,,,
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,M,12,,,,648,,3380,39.9,19,,49,,,,,,fair to good condition. Slightly dark and skinny
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,M,13,,,,520,,1940,49.4,21.9,,50,,,,,,spine deformity. Excellent condition
+6/27/2018,WT,"JO,CD,NH",angling,Pelican Bay,Recreation Ck,M,14,,,,649,,2955,44.3,22.2,,51,,,,,,looks post spawn. Fair condition
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,1,,,,400,,760,,,,,,,,,,Couldn't get bioimpedance working at first fish. No diets or isotopes
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,2,,,,557,,1700,50.5,23.2,,,,,,,,
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,3,,,,519,,1950,46.4,21.8,,,,,,,,
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,4,,,,523,,1760,46.6,21.3,,,,,,,,
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,5,,,,426,,,,,,,,,,,,Jumped out of boat before bioimpedance and weight could be taken
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,6,,,,514,,1740,51.6,22.3,,,,,,,,
+7/2/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,7,,,,670,,3600,46,22.6,,,,,,,,
+7/4/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,8,,,,572,,2040,55.4,26.1,,,,,,,,
+7/4/2018,CD,"CD, SD",angling,Pelican Bay,Recreation Ck,,9,,,,509,,1895,57.2,25.6,,,,,,,,
+7/9/2018,JO,CD,angling,Williamson,TNC,,1,1,1,,569,,2265,39.5,19.5,,57,,,,,,
+7/9/2018,JO,CD,angling,Williamson,TNC,,2,2,2,,650,,3440,,,,58,,,,,,"bioimpedance may have said a=39, b=29.9 but handwriting unclear so removed as outlier"
+7/9/2018,JO,CD,angling,Williamson,TNC,,3,3,3,,634,,2660,43.4,25.1,,59,,,,,,
+7/10/2018,JO,CD,angling,Williamson,TNC,,1,1,1,,357,,535,66.7,24.8,,60,,,,,,
+7/10/2018,JO,CD,angling,Williamson,TNC,M,2,2,2,,644,,2770,39.8,21.8,,61,,,,,,
+7/11/2018,JO,,angling,Williamson,TNC,,1,1,1,,548,,1650,45.9,21.9,,,,,,,,
+7/11/2018,JO,,angling,Williamson,TNC,,2,2,2,,417,,790,59.3,24.3,,,,,,,,
+7/13/2018,JO,NH,angling,Pelican Bay,Recreation Ck,,1,PB7,,,429,,920,54.8,25.1,,,,,,,,
+7/13/2018,JO,NH,angling,Pelican Bay,Recreation Ck,,2,PB8,2,,574,,2120,43.5,21.2,,,,,,,,
+7/13/2018,JO,NH,angling,Pelican Bay,Recreation Ck,,3,3,,,536,,1755,53.2,23.2,,,,,,,,
+7/15/2018,JO,NH,angling,Pelican Bay,Recreation Ck,,1,1,,,542,,2270,53.2,25.5,,62,,,,,,
+7/15/2018,JO,NH,angling,Pelican Bay,Recreation Ck,,2,2,,,547,,1840,53.6,24.5,,63,,,,,,
+7/18/2018,JO,CD,angling,Williamson,TNC,,1,1,,,314,,335,92.7,29,,64,,,,,,
+7/18/2018,JO,CD,angling,Williamson,TNC,,2,2,,,195,,85,,,,,,,,,,"resident or 1st spring in lake, too small for bioimpedance"
+7/18/2018,JO,CD,mort,Williamson,TNC,,3,3,,,653,,3340,,,,65,,,,,,mort <24h dead
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,1,WL13,,,405,,650,71.4,24.6,,66,,,,,,FL approx.; caudal severely damaged
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,2,2,,,264,,200,,,,,,,,,,too small for further sampling; probably not adfluvial yet
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,3,3,,,342,,465,81.2,28.3,,67,,,,,,
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,4,WL14,,,440,,950,61.2,23.9,,68,,,,,,
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,5,5,,,354,,500,79,27.4,,69,,,,,,
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,6,6,,,299,,345,81.6,24.4,,70,,,,,,
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,7,7,,,288,,225,93.3,29.4,,71,,,,,,
+7/23/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,8,WL15,,,472,,1270,54.5,24.4,,72,,,,,,
+7/24/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood River,M,1,WR7,,,534,,1680,46.2,22.2,,73,,,,,,"early spawner, colored up. Went under @ 2:49"
+7/24/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,2,2,,,552,,2575,48.1,22,,74,,,,,,caught late at night. 5 healed lamprey wounds
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,M,1,1,,,594,,2170,46.6,22.7,,75,,,,,,clean with old lamprey wounds. Went under @ 2:54
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood River,F,2,2,,,592,,2425,43.8,21.8,,76,,,,,,"chunk missing and copepods on dorsal, colored. Went under @ 2:30"
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,3,3,,,586,,2185,52.3,28.3,,77,,,,,,went under @3:45
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,4,4,,,445,,,67.4,28.2,,,,,,,,went under @ <2:15; stopped gilling but recovered fully. Changed aquiS
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,5,5,,,504,,1400,56.5,28,,78,,,,,,wt approximate. Copepods on dorsal and gills. Went under @2:40
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,6,6,,,609,,1925,41.3,19.1,,79,,,,,,
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,M,7,7,,,551,,1685,52.1,20.2,,80,,,,,,"hooking mort; dead <15 mins. Bright. Stomach pumped, then cut open for diet and sex. Took otoliths. Pics originally in nick's phone; visible where scales taken on fish's right side beforehand"
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,8,8,,,477,,1065,57,26.2,,81,,,,,,"almost no caudal (prob. Columnaris). Dark, blind in one eye. Went under @ 1:30"
+7/25/2018,NH,"JO,CD,WT,EB",angling,Wood Delta,Wood Delta,,9,9,,,564,,2055,47,23,,,,,,,,
+7/26/2018,NH,"JO,CD,WT",angling,Williamson,TNC,,1,,,,327,,540,72.5,28.1,,88,,,,,,"chunk out of top of caudal, red lesion behind pec fin"
+7/26/2018,NH,"JO,CD,WT",angling,Williamson,TNC,,2,WL18,,,614,,2600,36.4,17.5,,89,,,,,,
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,,1,WL19,,,520,,1430,50,23.8,,90,,,,,,2:50 to under. Red lesions
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,F,2,WL20,,,459,,365,57.3,23.5,,91,,,,,,2:50 to under. Red lesions
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,F,3,3,,,225,,140,,,,92,,,,,,"hooking mort covered in various parasites, chrome, possibly not in lake yet. Cut open for diet and otoliths taken"
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,F,4,4,,,454,,1870,61,26.7,,93,,,,,,digested matter in diet unable to ID. 2:20 to under
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,,5,5,,,249,,155,113.4,33.9,,94,,,,,,1:20 to under
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,,6,6,,,235,,135,,,,95,,,,,,small chrome hooking mort. Cut open for diet and otoliths taken
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,M,7,7,,,527,,1625,48.3,22.6,,96,,,,,,2:30 to under
+7/27/2018,NH,"JO,CD,WT,EB",angling,Williamson,TNC,,8,8,,,351,,490,79.4,27.7,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,1,1,,,535,,,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,2,2,,,555,,1980,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,3,3,,,550,,,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,4,4,,,508,,1695,54,24.6,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,5,5,,,562,,1870,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,6,6,,,584,,2455,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,7,7,,,566,,2050,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,8,8,,,370,,565,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,9,9,,14,,,,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,10,10,,18,,,,,,,,,,,,,
+7/29/2018,JO,WT,angling,Wood Delta,Wood Delta,,11,11,,,610,,,,,,,,,,,,
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,F,1,1,,,605,,2240,42.5,22.1,,,,,,,,"3:00 to under. Good condition, colored, 6 lamprey wounds"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,,2,2,,,375,,680,71.4,28.4,,105,,,,,,"2:20 to under. Mort, ortoliths and scales taken, laceration (osprey?), fair condition, ext. copepods"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,,3,3,,,489,,1390,65.6,28.8,,106,,,,,,"2:25 to under. Hook wound, lures"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,F,4,4,,,588,,1940,51.1,24.4,,107,,,,,,"2:40 to under. Lots of red spot wounds, fair condition"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,F,5,5,,,534,,1340,42.8,13.1,,108,,,,,,"2:37 to under. Poor-fair condition, dark and skinny, frayed fins"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,F,6,6,,,645,,2935,44.8,21.8,,109,,,,,,"2:50 to under. Good condition, best so far"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,M,7,7,,,565,,2095,46.1,22.3,,110,,,,,,"3:05 to under. Very clean, good condition"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,F,8,8,,,564,,1830,47.1,21.6,,111,,,,,,"3:00 to under. Maxillary damage, healed fresh lamprey wounds, fair to good condition, slightly skinny"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,,9,9,,,500,,1445,57.5,28,,112,,,,,,"4:00 to under. Good condition, clean"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,,10,10,,,349,,540,77.9,30.3,,113,,,,,,4:15 to under. Some copepod wounds
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,,11,11,,,450,,1000,65,30,,114,,,,,,"2:55 to under. Good condition, clean, unknown sex. Mort, otolith and scales taken"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,F,12,12,,,571,,1765,48.3,23.7,,115,,,,,,"2:40 to under. Fair condition, shotgun red sores all over"
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,M,13,13,,,629,,2420,46.3,23.4,,116,,,,,,3:00 to under. Fair-good condition besides eroded dorsal. 3 fresh lamprey wounds healing
+7/30/2018,WT,"BR,JO,EB",angling,Wood Delta,Wood Delta,,14,14,,,442,,995,60.5,25.5,,117,,,,,,"6:00 to under. Good condition, large hump behind head"
+8/1/2018,NH,JO,angling,Wood Delta,Wood Delta,M,1,1,,,529,,1725,50.6,25.5,,82,,,,,,2:30 to under
+8/1/2018,NH,JO,angling,Wood Delta,Wood Delta,M,2,2,,,534,,1655,50.5,24.7,,83,,,,,,3:00 to under
+8/1/2018,NH,JO,angling,Wood Delta,Wood Delta,,3,3,,,447,,1015,59.7,27.3,,84,,,,,,2:30 to under
+8/1/2018,NH,JO,angling,Wood Delta,Wood Delta,F,4,4,,,598,,2135,42.8,18,,85,,,,,,2:00 to under
+8/1/2018,NH,JO,angling,Wood Delta,Wood Delta,,5,5,,,489,,1230,54.5,26.7,,86,,,,,,1:45 to under
+8/1/2018,NH,JO,angling,Pelican Bay,Harriman Ck,,6,6,,,653,,3265,51.1,23.6,,87,,,,,,
+8/6/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,1,WL11,,,410,,810,69,28.3,,97,,,,,,
+8/6/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,2,2,,,305,,345,87,28.3,,98,,,,,,
+8/6/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,3,3,,,301,,325,81.1,28.4,,99,,,,,,
+8/6/2018,NH,"JO,CD",angling,Williamson,Chiloquin to 97,,4,WL10,,,537,,1825,54.3,26,,100,,,,,,
+8/6/2018,NH,JO,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,5,5,,,626,,3285,47.3,21.5,,101,,,,,,2:30 to under
+8/6/2018,NH,JO,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,6,6,,,558,,1930,57.6,25.2,,102,,,,,,2:00 to under
+8/6/2018,NH,JO,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,7,7,,,346,,450,70.4,27.4,,103,,,,,,
+8/6/2018,NH,JO,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,8,8,,,626,,2935,48.3,22.6,,104,,,,,,2:30 to under
+8/7/2018,WT,"JO,CD,EB",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,1,1,,,391,,545,68.5,28.5,,118,,,,,,"2:00 to under. Fair condition, copepods fairly abundant, unknown sex, crystal ck mouth"
+8/7/2018,WT,"JO,CD,EB",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,2,2,,,428,,855,63.3,25.9,,119,,,,,,"3:00 to under. Unknown sex, missing scales, copepods, crystal ck mouth"
+8/7/2018,WT,"JO,CD,EB",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,3,3,,,617,,2435,46,21.8,,120,,,,,,"5:00 to under. good shape, red wash on side, crystal ck mouth"
+8/7/2018,WT,"JO,CD,EB",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,4,4,,,553,,1935,49.1,21.7,,121,,,,,,good conditon. Near houses
+8/8/2018,NH,"WT,JO,CD,EB,BR",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,1,1,,,735,,4280,41.9,21.6,,122,,,,,,3:30 to under. 1 fresh possible failed attachment or healing and 1 fresh lamprey wound. Crystal ck mouth
+8/8/2018,NH,"WT,JO,CD,EB,BR",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,2,2,,,630,,2390,40.6,19.9,,123,,,,,,1:45 to under. Crystal ck mouth
+8/8/2018,NH,"WT,JO,CD,EB,BR",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,3,3,,,603,,2600,43.4,22.2,,124,,,,,,3:15 to under. Crystal ck mouth
+8/8/2018,NH,"WT,JO,CD,EB,BR",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,4,4,,,349,,430,77.8,25.8,,125,,,,,,2:20 to under. Crystal ck mouth
+8/8/2018,NH,"WT,JO,CD,EB,BR",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,5,5,,,506,,,,,,,,,,,,isotopes and genetics collected in rite in rain paper--contamination concern?
+8/10/2018,NH,CD,angling,Williamson,Chiloquin to 97,,1,WL12,,,591,,1895,46.9,22.7,,126,,,,,,
+8/12/2018,NH,JO,angling,Wood Delta,Wood Delta,,1,1,,,531,,1475,46.6,23.4,16.7,127,,,,,,2:00 to under
+8/12/2018,NH,JO,angling,Wood Delta,Wood Delta,F,2,2,,,544,,1710,45.7,22.7,13.4,128,,,,,,2:20 to under
+8/12/2018,NH,JO,angling,Wood Delta,Wood Delta,M,3,3,,,500,,1455,53,24.7,13.4,129,,,,,,2:00 to under
+8/13/2018,NH,JO,angling,Wood Delta,Wood Delta,,1,1,,,396,,705,67.1,29.3,12.8,130,,,,,,2:00 to under
+8/13/2018,NH,JO,angling,Wood Delta,Wood Delta,F,2,2,,,524,,1490,52.5,25.2,13.5,131,,,,,,3:00 to under
+8/13/2018,NH,JO,angling,Wood Delta,Wood Delta,F,3,3,,,494,,1290,60.1,26.3,13,132,,,,,,
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,F,1,WR8,,,545,,1835,56.7,26.6,11.2,133,,,,,,2:00 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,F,2,2,,,510,,1410,53,26.2,11.2,134,,,,,,3:00 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,F,3,3,,,537,,1500,51.4,25.3,11.2,135,,,,,,3:00 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,,4,4,,,260,,225,109.2,31.4,11.2,136,,,,,,
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,,5,5,,,573,,2685,43.2,20.1,16.4,137,,,,,,2:50 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,M,6,6,,,632,,3330,42,21.3,16.4,138,,,,,,2:00 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,,7,7,,,499,,1290,61.2,27.8,16.4,139,,,,,,3:20 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,,8,8,,,487,,1060,52.2,23.2,16.4,140,,,,,,
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,M,9,9,,,703,,4090,36.6,22.2,16.4,141,,,,,,2:20 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,,10,10,,,488,,1160,55.7,23.6,16.4,142,,,,,,2:00 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,,11,11,,,391,,620,79.6,21,14.1,143,,,,,,2:15 to under
+8/14/2018,NH,"WT,JO,CD",angling,Wood Delta,Wood Delta,F,12,12,,,652,,2955,43.7,21.6,14.1,144,,,,,,3:50 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,1,WL16,,,511,,1200,52,23.3,16.4,145,,,,,,2:51 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,2,WL17,,,426,,790,63,24.5,16.4,146,,,,,,2:30 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,3,3,,,561,,1035,60,20.1,16.4,147,,,,,,1:20 to under but very poor condition
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,4,4,,,666,,2750,38.4,20.2,16.4,148,,,,,,2:20 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,M,5,5,,,640,,2435,41.9,22,16.4,149,,,,,,2:30 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,F,6,6,,,614,,2275,40.2,20.3,16.4,150,,,,,,
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,7,7,,,477,,1150,53.4,22.4,16.4,151,,,,,,2:30 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,8,8,,,316,,350,73.6,27.1,16.4,152,,,,,,2:00 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,F,9,9,,,590,,2265,43.2,21.1,16.4,153,,,,,,2:00 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,M,10,10,,,624,,2740,40,22,16.4,154,,,,,,3:30 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,11,11,,,459,,1150,62.4,26.5,16.4,155,,,,,,2:15 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,12,12,,,364,,550,66.1,26.1,16.4,156,,,,,,2:00 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,13,13,,,560,,1790,44.3,21.1,16.4,157,,,,,,
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,14,14,,,531,,1360,44.1,15.2,16.4,158,,,,,,1:30 to under but worked up immediately after capture
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,15,15,,,413,,815,60.9,25.3,16.4,159,,,,,,
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,16,16,,,529,,2075,50.4,22.8,16.4,160,,,,,,2:30 to under
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,F,17,17,,,589,,1790,40.4,16.7,16.4,161,,,,,,
+8/15/2018,NH,"WT,JO,CD",angling,Williamson,TNC,F,18,18,,,474,,1350,52.6,20.5,16.4,162,,,,,,
+8/17/2018,NH,"WT,JO,CD",angling,Williamson,TNC,F,1,1,,,620,,2650,42.3,21.9,17.4,163,,,,,,3:00 to under
+8/17/2018,NH,"WT,JO,CD",angling,Williamson,TNC,F,2,2,,,620,,1965,41.1,18.1,17.4,164,,,,,,2:20 to under
+8/17/2018,NH,"WT,JO,CD",angling,Williamson,TNC,M,3,3,,,533,,1730,57.9,28.3,17.4,165,,,,,,3:30 to under
+8/17/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,4,4,,,500,,1315,59.2,26.5,17.4,166,,,,,,2:15 to under
+8/17/2018,NH,"WT,JO,CD",angling,Williamson,TNC,,5,5,,,552,,1680,47.6,23.2,17.4,167,,,,,,2:20 to under
+8/19/2018,JO,,angling,Williamson,TNC,M,1,,,,580,,,,,,168,,,,,,
+8/19/2018,JO,,angling,Williamson,TNC,F,2,,,,650,,,,,,169,,,,,,questionable sex
+8/19/2018,JO,,angling,Wood Delta,Wood Delta,F,3,,,,561,,,,,,170,00774269DD,,,,,"recap, mort"
+8/20/2018,CD,CD,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,F,1,1,,,538,,1580,54.3,25.8,14.7,171,,,,,,3:46 to under
+8/20/2018,CD,CD,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,2,2,,,669,,3525,46.4,21.6,14.7,172,,,,,,2:56 to under
+8/20/2018,CD,CD,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,M,3,3,,,598,,2135,49.7,25,14.7,173,,,,,,2:15 to under
+8/21/2018,JO,,angling,Williamson,TNC,F,1,,,,599,,,,,,174,,,,,,
+8/21/2018,JO,,angling,Williamson,TNC,M,2,,,,568,,,,,,175,,,,,,
+8/27/2018,JO,CD,angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,1,1,,,381,,545,75.5,29.1,13,176,,,,,,"2:45 KO, mouth of crystal"
+8/27/2018,JO,CD,angling,Pelican Bay,Pelican Bay/UKL Interface,,2,PB9,,,514,,1240,66.6,30.2,13,177,,,,,,
+8/27/2018,JO,CD,angling,Pelican Bay,Pelican Bay/UKL Interface,,3,PB10,,,495,,1250,56.4,25.3,13,178,,,,,,
+8/27/2018,JO,CD,angling,Pelican Bay,Pelican Bay/UKL Interface,,4,,,,436,,760,68.8,24.3,13,179,,,,,,3:30 Ko
+8/27/2018,JO,CD,angling,Pelican Bay,Pelican Bay/UKL Interface,M,5,,,,579,,2130,49.9,22.2,13,180,,,,,,
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,M,1,1,,,605,,2620,47.7,23.7,13.5,181,,,,,,"2:30 KO, dark redband"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,,2,2,,,416,,680,78.9,30,13.5,182,,,,,,"3:30 Ko, Pelican bay near outlet"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,F,3,3,,,638,,3135,46.8,26.1,13.5,183,,,,,,"4:00 KO, 10 degrees F warmer where fish were caught."
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,,4,4,,,459,,1070,65.4,28.6,14,184,,,,,,"3:00 KO, 100m from last buoys, 19.5 C surface temp, hook injury. Fair conditioned, some red sores, potential bird predation marks."
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,,5,5,,,494,,1450,54.9,22.1,14,185,,,,,,"2:20 KO, fair-good condition, kind of skinny"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,,6,6,,,496,,1325,50.7,24.2,20,186,,,,,,"2:30 KO, skinny some color."
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Odessa Ck,Odessa Ck,M,7,7,,,577,,2205,47.3,22.8,19.2,187,,,,,,"3:00 Ko, good condition, clean, smone holes near dorsal from copepods, some color"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Odessa Ck,Odessa Ck,M,8,8,,,465,,975,61.1,26.1,19.2,188,,,,,,"3:15 KO, Fair condtion, moderate copepod load"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Odessa Ck,Odessa Ck,,9,9,,,301,,315,84.7,28.2,19.2,189,,,,,,"2:00 Ko, Clean, chrome, fair to good condtion"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,10,10,,,364,,500,69.6,26.4,19.2,190,,,,,,"2:15 Ko, bright, clean, mouth of crystal, ant hatch on water"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,M,11,11,,,523,,1880,55.7,24.6,19.2,191,,,,,,Fair to good condition
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Odessa Ck,Odessa Ck,,12,12,,,430,,885,61.5,24.9,19.2,192,,,,,,"clean, fair to good, some scale loss"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,,13,13,,,580,,2410,53,24.4,13.5,,,,,,,"Fair to good condition, fair number of red sores"
+8/29/2018,WT,"WT,JO,CD,EB,NH",angling,Pelican Bay,Pelican Bay/UKL Interface,,14,14,,,455,,1015,61,25,13.5,,,,,,,"small skinny, some red sores"
+8/31/2018,NH,JO NH,angling,UKL,Eagle Ridge,,1,,,,,,,,,,193,,,,,,"Diet only, released for fish health"
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,1,,,,417,,1090,55.8,23.1,19,,,,,,,3:50 half dose aqui-s no clip lamprey mark? Ask bill??
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,2,KENO51,,,395,,790,65.5,27.1,19,,,,,,,"3:00 Ko, Fair to good condition, some scale loss, upper maxillary gone"
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,3,KENO52,,,363,,610,68.3,27,19,,,,,,,"4:40 Ko, fair to good "
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,4,KENO53,,,303,,400,76.7,26.8,19,,,,,,,good condition
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,5,KENO54,,,299,,335,77.4,26.6,19,,,,,,,fin clip for genetics
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,6,KENO55,,,300,,375,75.7,26.3,19,,,,,,,"fair to good, orange spot on ventral, fin clip for genetics"
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,7,KENO56,,,279,,315,91.9,29.9,19,,,,,,,"fair to good, fin clip and pics taken"
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,8,KENO57,,,369,,590,67.4,26.5,19,,,,,,,3:00
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,9,KENO58,,,353,,575,65.5,26,19,,,,,,,"3:50new does, 4 per 30 pics and clipped"
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,10,KENO59,,,443,,1125,51.4,20.4,19,,,,,,,2:45 pics and clipped
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,11,KENO60,,,290,,370,81.5,27.8,21.9,,,,,,,4:00
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,12,KENO61,,,366,,615,65.3,24.9,21.9,,,,,,,3:00
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,13,KENO62,,,306,,390,72.1,25.4,21.9,,,,,,,3:00
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,14,KENO63,,,283,,315,78.6,25.8,21.9,,,,,,,3:00
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,15,KENO64,,,296,,370,73.1,24.6,21.9,,,,,,,2:45
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,16,KENO65,,,315,,470,65.3,22.6,21.9,,,,,,,2:15
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,17,KENO66,,,325,,450,69,23,21.9,,,,,,,"2:40, 20.4 degrees @1pm"
+9/5/2018,NH,"Jo, CD, BT, NH",angling,Keno,Powerlines,,18,KENO67,,,395,,850,57.9,24.3,21.9,,,,,,,1:50
+9/6/2018,NH,JO NH,angling,UKL,Eagle Ridge,,1,1,,,685,,3125,44.1,26.9,,194,,,,,,Mort
+9/8/2018,JO,JO and Josh,angling,Pelican Bay,Pelican Bay/UKL Interface,,1,1,,,486,,1225,55.6,26.4,15.5,195,,,,,,
+9/9/2018,JO,JO and Josh,angling,UKL,Eagle Ridge,,1,1,,,649,,3030,42,25.2,15.2,196,,,,,,3:15
+9/9/2018,Jo,JO and Josh,angling,Williamson,TNC,F,2,2,,,557,,1665,51.3,22.9,,197,,,,,,
+9/9/2018,JO,JO and Josh,angling,Williamson,TNC,,3,3,,,431,,895,65.2,29.1,,198,,,,,,
+9/9/2018,Jo,JO and Josh,angling,Williamson,TNC,,4,4,,,578,,1910,47.3,25.6,,199,,,,,,Mouth of williamson 
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,1,1,,,405,,1035,55.1,23.6,,200,,,,,,4 per 30
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,2,2,,,305,,720,67,27.3,,201,,,,,,3:30
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,3,3,,,389,,760,60.4,24.1,,202,,,,,,3:30 Ko 5 per 30 same temp
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,4,4,,,335,,620,69.2,27.3,,203,,,,,,"1:30 mort, cut open and verified no items left after puking"
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,5,5,,,326,,455,74.3,29,,204,,,,,,2:30
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,6,6,,,310,,465,77.2,28.1,,205,,,,,,
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,7,7,,,411,,1090,59.6,26.7,,206,,,,,,
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,8,8,,,484,,1450,48.2,20.4,,,,,,,,3:30 diet not taken
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,9,9,,,408,,1025,53.3,24.1,,,,,,,,2:30 diet not taken
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,10,10,,,419,,,56.6,24.6,,,,,,,,
+9/10/2018,NH,"NH,MH,BR,JO, CD, Josh",angling,Keno,Keno Dam,,11,11,,,368,,,59.5,24.7,,,,,,,,
+10/10/2018,NH,CD,angling,Keno,Keno Dam,,1,1,,,435,,1295,59,24.7,,,,,,,,
+10/10/2018,NH,CD,angling,Keno,Keno Dam,,2,2,,,426,,1290,54.5,23.8,,,,,,,,
+10/10/2018,NH,CD,angling,Keno,Keno Dam,,3,3,,,439,,1130,55.9,22.5,,,,,,,,
+10/10/2018,NH,CD,angling,Keno,Keno Dam,,4,4,,,457,,1530,50.3,23.6,,,,,,,,
+10/10/2018,NH,CD,angling,Keno,Keno Dam,,5,5,,,432,,1135,55.5,24.1,,,,,,,,
+10/24/2018,NH,CD,angling,UKL,Eagle Ridge,M,1,1,,,574,,2135,52.2,26.3,,218,,,,,,hooking mort
+10/24/2018,NH,CD,angling,UKL,Eagle Ridge,F,2,2,,,570,,2260,52.3,28.9,,219,,,,,,1:50 to under
+10/24/2018,NH,CD,angling,UKL,Eagle Ridge,F,3,3,,,570,,2320,49.1,26.1,,220,,,,,,2:40 to under
+10/24/2018,NH,CD,angling,UKL,Eagle Ridge,M,4,4,,,596,,2105,48.1,19.3,,221,,,,,,"3:00 to under, top of caudal stripped to bone, heavily scarred along dorsal"
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,M,1,1,,,624,,3115,41.8,24.6,11.1,222,,,,,,2:30 to under
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,F,2,2,,,626,,2280,46.2,21.7,11.1,223,,,,,,
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,,3,3,,,646,,2940,42.3,23.5,11.1,224,,,,,,
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,,4,4,,,579,,2635,57.3,27.1,11.1,225,,,,,,1:55 to under
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,F,5,5,,,515,,1940,56.2,26.9,11.1,226,,,,,,2:20 to under
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,F,6,6,,,563,,1755,52.5,27.5,11.1,227,,,,,,"1:30 to under. Wt questionable, rough water"
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,F,7,7,,,587,,2735,48.5,25,12.4,228,,,,,,"wt questionable, rough water"
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,,8,8,,,614,,2605,52.5,26.4,12.4,229,,,,,,
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,M,9,9,,,607,,2655,49.5,24.1,12.4,230,,,,,,"dark, previous hooking injury. Wt questionable, rough water"
+10/27/2018,NH,"JO,WT",angling,UKL,Eagle Ridge,,10,10,,,583,,2225,57.1,24.3,12.4,231,,,,,,"wt questionable, rough water"

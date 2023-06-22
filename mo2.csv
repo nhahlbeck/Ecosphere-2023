@@ -1,0 +1,260 @@
+Basin,TempTrial,TempTrial1,ID,Type,TypeDetails,MO2,bwmax,N_MO2,R2_threshold,Note,MRtype,Descrip
+Spencer,Ambient,14,1,AAS,AS_low10quant,17.94251682,0.0133,384,0.75,,AS,
+Spencer,Ambient,14,2,AAS,AS_low10quant,10.22685768,0.0293,390,0.75,,AS,
+Spencer,Ambient,14,3,AAS,AS_low10quant,14.28324447,0.0091,390,0.75,,AS,
+Spencer,Ambient,14,4,AAS,AS_low10quant,13.89365723,0.0299,387,0.75,,AS,
+Spencer,Ambient,14,5,AAS,AS_low10quant,11.01632753,0.0367,31,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,6,AAS,AS_low10quant,12.21991703,0.0119,77,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,7,AAS,AS_low10quant,13.98284976,0.0091,83,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,8,AAS,AS_low10quant,13.78787674,0.0074,19,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,1,FAS,,10.57064253,0.0133,384,0.75,,AS,
+Spencer,Ambient,14,2,FAS,,7.152458276,0.0293,390,0.75,,AS,
+Spencer,Ambient,14,3,FAS,,13.68159204,0.0091,390,0.75,,AS,
+Spencer,Ambient,14,4,FAS,,8.708533702,0.0299,387,0.75,,AS,
+Spencer,Ambient,14,5,FAS,,49.4671916,0.0367,31,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,6,FAS,,19.16205752,0.0119,77,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,7,FAS,,16.24004249,0.0091,83,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,8,FAS,,10.90223945,0.0074,19,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,1,MMR,mmr,19.81726209,0.0133,384,0.75,,MR,
+Spencer,Ambient,14,2,MMR,mmr,11.88909694,0.0293,390,0.75,,MR,
+Spencer,Ambient,14,3,MMR,mmr,15.4095419,0.0091,390,0.75,,MR,
+Spencer,Ambient,14,4,MMR,mmr,15.69603078,0.0299,387,0.75,,MR,
+Spencer,Ambient,14,5,MMR,mmr,11.24362206,0.0367,31,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,6,MMR,mmr,12.89274372,0.0119,77,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,7,MMR,mmr,14.90035703,0.0091,83,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,8,MMR,mmr,15.18027659,0.0074,19,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,12,1,RMR,post EPOC values,2.603979254,0.0133,384,0.75,,,
+Spencer,Ambient,13,1,RMR,post EPOC values,2.361086124,0.0133,31,0.75,,,
+Spencer,Ambient,14,1,RMR,post EPOC values,2.026481842,0.0133,390,0.75,,,
+Spencer,Ambient,15,1,RMR,post EPOC values,1.802911647,0.0133,384,0.75,exclude,,Only one observation at this temperature
+Spencer,Ambient,16,1,RMR,post EPOC values,2.893785647,0.0133,384,0.75,exclude,,Only one observation at this temperature
+Spencer,Ambient,17,1,RMR,post EPOC values,1.507383045,0.0133,384,0.75,exclude,,Only one observation at this temperature
+Spencer,Ambient,12,2,RMR,post EPOC values,2.01613052,0.0293,390,0.75,,,
+Spencer,Ambient,13,2,RMR,post EPOC values,1.679074994,0.0293,384,0.75,,,
+Spencer,Ambient,14,2,RMR,post EPOC values,1.649826405,0.0293,384,0.75,,,
+Spencer,Ambient,12,3,RMR,post EPOC values,1.345563635,0.0091,390,0.75,,,
+Spencer,Ambient,13,3,RMR,post EPOC values,1.149117353,0.0091,390,0.75,,,
+Spencer,Ambient,12,4,RMR,post EPOC values,1.802446999,0.0299,387,0.75,,,
+Spencer,Ambient,13,4,RMR,post EPOC values,1.715773237,0.0299,384,0.75,,,
+Spencer,Ambient,14,4,RMR,post EPOC values,1.746451831,0.0299,384,0.75,,,
+Spencer,Ambient,14,1,SMR,SMR_low10quant,1.874745271,0.0133,384,0.75,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Spencer,Ambient,14,2,SMR,SMR_low10quant,1.662239258,0.0293,390,0.75,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Spencer,Ambient,14,3,SMR,SMR_low10quant,1.126297426,0.0091,390,0.75,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Spencer,Ambient,14,4,SMR,SMR_low10quant,1.802373547,0.0299,387,0.75,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Spencer,Ambient,14,5,SMR,SMR_low10quant,0.22729453,0.0367,31,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,6,SMR,SMR_low10quant,0.672826689,0.0119,77,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,7,SMR,SMR_low10quant,0.917507269,0.0091,83,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,8,SMR,SMR_low10quant,1.392399851,0.0074,19,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Climate,25,1,AAS,AS_low10quant,18.775,0.0174,132,0.8,,AS,
+Spencer,Climate,25,2,AAS,AS_low10quant,,,,0.8,exclude,AS,mort
+Spencer,Climate,25,3,AAS,AS_low10quant,20.483,0.0176,132,0.8,,AS,
+Spencer,Climate,25,4,AAS,AS_low10quant,23.303,0.0127,132,0.8,,AS,
+Spencer,Climate,25,5,AAS,AS_low10quant,,,131,0.8,exclude,AS,mort
+Spencer,Climate,25,6,AAS,AS_low10quant,11.619,0.0171,131,0.8,,AS,
+Spencer,Climate,25,7,AAS,AS_low10quant,10.097,0.0216,131,0.8,,AS,
+Spencer,Climate,25,8,AAS,AS_low10quant,10.32,0.0412,131,0.8,,AS,
+Spencer,Climate,25,1,FAS,,4.143,0.0174,132,0.8,,AS,
+Spencer,Climate,25,2,FAS,,,,,0.8,exclude,AS,mort
+Spencer,Climate,25,3,FAS,,4.345,0.0176,132,0.8,,AS,
+Spencer,Climate,25,4,FAS,,5.395,0.0127,132,0.8,,AS,
+Spencer,Climate,25,5,FAS,,,,131,0.8,exclude,AS,mort
+Spencer,Climate,25,6,FAS,,3.323,0.0171,131,0.8,,AS,
+Spencer,Climate,25,7,FAS,,3.039,0.0216,131,0.8,,AS,
+Spencer,Climate,25,8,FAS,,3.154,0.0412,131,0.8,,AS,
+Spencer,Climate,25,1,MMR,mmr,24.749,0.0174,132,0.8,,MR,
+Spencer,Climate,25,2,MMR,mmr,,,,0.8,exclude,MR,mort
+Spencer,Climate,25,3,MMR,mmr,26.605,0.0176,132,0.8,,MR,
+Spencer,Climate,25,4,MMR,mmr,28.605,0.0127,132,0.8,,MR,
+Spencer,Climate,25,5,MMR,mmr,,,131,0.8,exclude,MR,mort
+Spencer,Climate,25,6,MMR,mmr,16.621,0.0171,131,0.8,,MR,
+Spencer,Climate,25,7,MMR,mmr,15.05,0.0216,131,0.8,,MR,
+Spencer,Climate,25,8,MMR,mmr,15.111,0.0412,131,0.8,,MR,
+Spencer,Climate,25,1,RMR,post EPOC values,6.653085902,0.0174,,,,,
+Spencer,Climate,25,3,RMR,post EPOC values,6.614062538,0.0176,,,,,
+Spencer,Climate,25,4,RMR,post EPOC values,5.863909837,0.0127,,,,,
+Spencer,Climate,25,6,RMR,post EPOC values,5.751802172,0.0171,,,,,
+Spencer,Climate,25,7,RMR,post EPOC values,5.610009278,0.0216,,,,,
+Spencer,Climate,25,8,RMR,post EPOC values,5.423993365,0.0412,,,,,
+Spencer,Climate,25,2,RMR1,post EPOC values,,,,,exclude,,mort
+Spencer,Climate,25,5,RMR1,post EPOC values,,,,,exclude,,mort
+Spencer,Climate,25,1,SMR,SMR_low10quant,5.974,0.0174,132,0.8,,MR,
+Spencer,Climate,25,2,SMR,SMR_low10quant,,,,0.8,exclude,MR,mort
+Spencer,Climate,25,3,SMR,SMR_low10quant,6.123,0.0176,132,0.8,,MR,
+Spencer,Climate,25,4,SMR,SMR_low10quant,5.302,0.0127,132,0.8,,MR,
+Spencer,Climate,25,5,SMR,SMR_low10quant,,,131,0.8,exclude,MR,mort
+Spencer,Climate,25,6,SMR,SMR_low10quant,5.002,0.0171,131,0.8,,MR,
+Spencer,Climate,25,7,SMR,SMR_low10quant,4.953,0.0216,131,0.8,,MR,
+Spencer,Climate,25,8,SMR,SMR_low10quant,4.791,0.0412,131,0.8,,MR,
+Spencer,Max,22,1,AAS,AS_low10quant,14.081891,0.0177,130,0.85,,AS,
+Spencer,Max,22,2,AAS,AS_low10quant,14.59127927,0.0329,130,0.85,,AS,
+Spencer,Max,22,3,AAS,AS_low10quant,15.73563278,0.0175,130,0.85,,AS,
+Spencer,Max,22,4,AAS,AS_low10quant,13.77246923,0.0271,130,0.85,,AS,
+Spencer,Max,22,5,AAS,AS_low10quant,8.997264516,0.0362,110,0.75,exclude,AS,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,6,AAS,AS_low10quant,6.37368455,0.0111,121,0.75,exclude,AS,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,7,AAS,AS_low10quant,13.79504314,0.0428,79,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,8,AAS,AS_low10quant,,,0,0,exclude,AS,Recirc pumps turned off for part of time; Both MMR and SMR plots looked rough
+Spencer,Max,22,1,FAS,,4.138832494,0.0177,130,0.85,,AS,
+Spencer,Max,22,2,FAS,,4.374653099,0.0329,130,0.85,,AS,
+Spencer,Max,22,3,FAS,,4.278576876,0.0175,130,0.85,,AS,
+Spencer,Max,22,4,FAS,,4.547582718,0.0271,130,0.85,,AS,
+Spencer,Max,22,5,FAS,,32.89513189,0.0362,110,0.75,exclude,AS,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,6,FAS,,4.337513062,0.0111,121,0.75,exclude,AS,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,7,FAS,,34.61834908,0.0428,79,0.75,exclude,AS,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,8,FAS,,,,0,0,exclude,AS,Recirc pumps turned off for part of time; Both MMR and SMR plots looked rough
+Spencer,Max,22,1,MMR,mmr,18.56823777,0.0177,130,0.85,,MR,
+Spencer,Max,22,2,MMR,mmr,18.9150657,0.0329,130,0.85,,MR,
+Spencer,Max,22,3,MMR,mmr,20.53516421,0.0175,130,0.85,,MR,
+Spencer,Max,22,4,MMR,mmr,17.65468152,0.0271,130,0.85,,MR,
+Spencer,Max,22,5,MMR,mmr,9.279353474,0.0362,110,0.75,exclude,MR,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,6,MMR,mmr,8.283395293,0.0111,121,0.75,exclude,MR,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,7,MMR,mmr,14.20538581,0.0428,79,0.75,exclude,MR,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,8,MMR,mmr,,,0,0,exclude,MR,Recirc pumps turned off for part of time; Both MMR and SMR plots looked rough
+Spencer,Max,22,1,RMR,post EPOC values,5.001804292,0.0177,,,,,
+Spencer,Max,22,2,RMR,post EPOC values,5.008555326,0.0329,,,,,
+Spencer,Max,22,3,RMR,post EPOC values,6.070890775,0.0175,,,,,
+Spencer,Max,22,4,RMR,post EPOC values,5.080137535,0.0271,,,,,
+Spencer,Max,22,5,RMR1,post EPOC values,,,,,exclude,,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,6,RMR1,post EPOC values,,,,,exclude,,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,7,RMR1,post EPOC values,,,,,exclude,,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,8,RMR1,post EPOC values,,,,,exclude,,Recirc pumps turned off for part of time; Both MMR and SMR plots looked rough
+Spencer,Max,22,1,SMR,SMR_low10quant,4.486346764,0.0177,130,0.85,,MR,
+Spencer,Max,22,2,SMR,SMR_low10quant,4.323786429,0.0329,130,0.85,,MR,
+Spencer,Max,22,3,SMR,SMR_low10quant,4.799531436,0.0175,130,0.85,,MR,
+Spencer,Max,22,4,SMR,SMR_low10quant,3.882212291,0.0271,130,0.85,,MR,
+Spencer,Max,22,5,SMR,SMR_low10quant,0.282088958,0.0362,110,0.75,,MR,
+Spencer,Max,22,6,SMR,SMR_low10quant,1.909710743,0.0111,121,0.75,,MR,
+Spencer,Max,22,7,SMR,SMR_low10quant,0.410342671,0.0428,79,0.75,,MR,
+Spencer,Max,22,8,SMR,SMR_low10quant,,,0,0,exclude,MR,Recirc pumps turned off for part of time; Both MMR and SMR plots looked rough
+Williamson,Ambient,11,1,AAS,AS_low10quant,13.18898108,0.0284,137,0.85,,AS,
+Williamson,Ambient,11,2,AAS,AS_low10quant,13.60427102,0.0162,130,0.85,,AS,
+Williamson,Ambient,11,3,AAS,AS_low10quant,15.2136817,0.0135,137,0.85,,AS,
+Williamson,Ambient,11,4,AAS,AS_low10quant,13.77771961,0.0198,137,0.85,,AS,
+Williamson,Ambient,11,5,AAS,AS_low10quant,12.60702562,0.0196,136,0.85,,AS,
+Williamson,Ambient,11,6,AAS,AS_low10quant,10.04366734,0.0247,136,0.85,,AS,
+Williamson,Ambient,11,7,AAS,AS_low10quant,10.17733865,0.0276,136,0.85,,AS,
+Williamson,Ambient,11,8,AAS,AS_low10quant,5.347771587,0.0224,77,0.85,exclude,AS,"Pump issue at beginning of measurement, couldn't get MMR"
+Williamson,Ambient,11,1,FAS,,7.19399622,0.0284,137,0.85,,AS,
+Williamson,Ambient,11,2,FAS,,8.819885517,0.0162,130,0.85,,AS,
+Williamson,Ambient,11,3,FAS,,12.42308639,0.0135,137,0.85,,AS,
+Williamson,Ambient,11,4,FAS,,8.768534808,0.0198,137,0.85,,AS,
+Williamson,Ambient,11,5,FAS,,9.807314196,0.0196,136,0.85,,AS,
+Williamson,Ambient,11,6,FAS,,8.074074074,0.0247,136,0.85,,AS,
+Williamson,Ambient,11,7,FAS,,7.743995777,0.0276,136,0.85,,AS,
+Williamson,Ambient,11,8,FAS,,4.907274296,0.0224,77,0.85,exclude,AS,"Pump issue at beginning of measurement, couldn't get MMR"
+Williamson,Ambient,11,1,MMR,,15.31829802,0.0284,137,0.85,,MR,
+Williamson,Ambient,11,2,MMR,,15.34397309,0.0162,130,0.85,,MR,
+Williamson,Ambient,11,3,MMR,,16.54551806,0.0135,137,0.85,,MR,
+Williamson,Ambient,11,4,MMR,,15.55124833,0.0198,137,0.85,,MR,
+Williamson,Ambient,11,5,MMR,,14.03845242,0.0196,136,0.85,,MR,
+Williamson,Ambient,11,6,MMR,,11.46345277,0.0247,136,0.85,,MR,
+Williamson,Ambient,11,7,MMR,,11.68643488,0.0276,136,0.85,,MR,
+Williamson,Ambient,11,8,MMR,,6.716442221,0.0224,77,0.85,exclude,MR,"Pump issue at beginning of measurement, couldn't get MMR"
+Williamson,Ambient,9,1,RMR,post EPOC values,2.935597874,0.0284,137,0.85,,,
+Williamson,Ambient,10,1,RMR,post EPOC values,2.372780208,0.0284,137,0.85,,,
+Williamson,Ambient,11,1,RMR,post EPOC values,2.604691048,0.0284,137,0.85,,,
+Williamson,Ambient,9,2,RMR,post EPOC values,2.288022658,0.0162,130,0.85,,,
+Williamson,Ambient,10,2,RMR,post EPOC values,2.016339538,0.0162,130,0.85,,,
+Williamson,Ambient,9,3,RMR,post EPOC values,1.836751914,0.0135,137,0.85,,,
+Williamson,Ambient,10,3,RMR,post EPOC values,1.440664722,0.0135,137,0.85,,,
+Williamson,Ambient,9,4,RMR,post EPOC values,2.409928625,0.0198,137,0.85,,,
+Williamson,Ambient,10,4,RMR,post EPOC values,1.855430181,0.0198,137,0.85,,,
+Williamson,Ambient,9,5,RMR,post EPOC values,2.069758179,0.0196,136,0.85,,,
+Williamson,Ambient,10,5,RMR,post EPOC values,1.485142501,0.0196,136,0.85,,,
+Williamson,Ambient,11,5,RMR,post EPOC values,1.533591164,0.0196,136,0.85,,,
+Williamson,Ambient,9,6,RMR,post EPOC values,1.778579892,0.0247,136,0.85,,,
+Williamson,Ambient,10,6,RMR,post EPOC values,1.485930044,0.0247,136,0.85,,,
+Williamson,Ambient,11,6,RMR,post EPOC values,1.641933282,0.0247,136,0.85,,,
+Williamson,Ambient,9,7,RMR,post EPOC values,2.163734397,0.0276,136,0.85,,,
+Williamson,Ambient,10,7,RMR,post EPOC values,1.605480847,0.0276,136,0.85,,,
+Williamson,Ambient,11,7,RMR,post EPOC values,1.854341663,0.0276,136,0.85,,,
+Williamson,Ambient,12,7,RMR,post EPOC values,1.598710027,0.0276,136,0.85,exclude,,
+Williamson,Ambient,9,8,RMR,post EPOC values,2.285673365,0.0224,77,0.85,exclude,,"Pump issue at beginning of measurement, couldn't get MMR"
+Williamson,Ambient,10,8,RMR,post EPOC values,1.593437467,0.0224,77,0.85,exclude,,"Pump issue at beginning of measurement, couldn't get MMR"
+Williamson,Ambient,11,1,SMR,SMR_low10quant,2.12931694,0.0284,137,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,2,SMR,SMR_low10quant,1.739702069,0.0162,130,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,3,SMR,SMR_low10quant,1.331836352,0.0135,137,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,4,SMR,SMR_low10quant,1.773528722,0.0198,137,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,5,SMR,SMR_low10quant,1.431426805,0.0196,136,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,6,SMR,SMR_low10quant,1.419785435,0.0247,136,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,7,SMR,SMR_low10quant,1.509096236,0.0276,136,0.85,,MR,SMR temp  post-EPOC not the avg for the entire trial
+Williamson,Ambient,11,8,SMR,SMR_low10quant,1.368670634,0.0224,77,0.85,exclude,MR,"Pump issue at beginning of measurement, couldn't get MMR"
+Williamson,Climate,22,1,AAS,AS_low10quant,20.23452237,0.0212,128,0.85,,AS,
+Williamson,Climate,22,2,AAS,AS_low10quant,10.06534557,0.0368,128,0.85,,AS,
+Williamson,Climate,22,3,AAS,AS_low10quant,5.554631995,0.0172,128,0.85,,AS,
+Williamson,Climate,22,4,AAS,AS_low10quant,8.896310651,0.0182,128,0.85,,AS,
+Williamson,Climate,22,5,AAS,AS_low10quant,14.31072537,0.0343,127,0.85,,AS,
+Williamson,Climate,22,6,AAS,AS_low10quant,5.582143249,0.0195,127,0.85,,AS,
+Williamson,Climate,22,7,AAS,AS_low10quant,8.559140743,0.0224,127,0.85,,AS,
+Williamson,Climate,22,8,AAS,AS_low10quant,7.224035146,0.0153,127,0.85,,AS,
+Williamson,Climate,22,1,FAS,,3.863290022,0.0212,128,0.85,,AS,
+Williamson,Climate,22,2,FAS,,1.99791786,0.0368,128,0.85,,AS,
+Williamson,Climate,22,3,FAS,,2.210931276,0.0172,128,0.85,,AS,
+Williamson,Climate,22,4,FAS,,3.785373722,0.0182,128,0.85,,AS,
+Williamson,Climate,22,5,FAS,,2.570269596,0.0343,127,0.85,,AS,
+Williamson,Climate,22,6,FAS,,2.37946305,0.0195,127,0.85,,AS,
+Williamson,Climate,22,7,FAS,,3.172313215,0.0224,127,0.85,,AS,
+Williamson,Climate,22,8,FAS,,3.053431116,0.0153,127,0.85,,AS,
+Williamson,Climate,22,1,MMR,,27.30140075,0.0212,128,0.85,,MR,
+Williamson,Climate,22,2,MMR,,20.15169232,0.0368,128,0.85,,MR,
+Williamson,Climate,22,3,MMR,,10.14170651,0.0172,128,0.85,,MR,
+Williamson,Climate,22,4,MMR,,12.09024853,0.0182,128,0.85,,MR,
+Williamson,Climate,22,5,MMR,,23.42427213,0.0343,127,0.85,,MR,
+Williamson,Climate,22,6,MMR,,9.628749099,0.0195,127,0.85,,MR,
+Williamson,Climate,22,7,MMR,,12.49924509,0.0224,127,0.85,,MR,
+Williamson,Climate,22,8,MMR,,10.74206655,0.0153,127,0.85,,MR,
+Williamson,Climate,22,1,RMR,post EPOC values,8.155669763,0.0156,,,,,
+Williamson,Climate,22,2,RMR,post EPOC values,11.2719973,0.021,,,,,
+Williamson,Climate,22,3,RMR,post EPOC values,5.388001644,0.0247,,,,,
+Williamson,Climate,22,4,RMR,post EPOC values,3.70319294,0.029,,,,,
+Williamson,Climate,22,5,RMR,post EPOC values,9.770207369,0.0194,,,,,
+Williamson,Climate,22,6,RMR,post EPOC values,4.657696668,0.0197,,,,,
+Williamson,Climate,22,7,RMR,post EPOC values,5.080695349,0.0249,,,,,
+Williamson,Climate,22,8,RMR,post EPOC values,4.340138909,0.0239,,,,,
+Williamson,Climate,22,1,SMR,SMR_low10quant,7.066878385,0.0212,128,0.85,,MR,
+Williamson,Climate,22,2,SMR,SMR_low10quant,10.08634676,0.0368,128,0.85,,MR,
+Williamson,Climate,22,3,SMR,SMR_low10quant,4.587074513,0.0172,128,0.85,,MR,
+Williamson,Climate,22,4,SMR,SMR_low10quant,3.193937884,0.0182,128,0.85,,MR,
+Williamson,Climate,22,5,SMR,SMR_low10quant,9.113546753,0.0343,127,0.85,,MR,
+Williamson,Climate,22,6,SMR,SMR_low10quant,4.04660585,0.0195,127,0.85,,MR,
+Williamson,Climate,22,7,SMR,SMR_low10quant,3.940104347,0.0224,127,0.85,,MR,
+Williamson,Climate,22,8,SMR,SMR_low10quant,3.518031402,0.0153,127,0.85,,MR,
+Williamson,Max,18,1,AAS,AS_low10quant,11.75006613,0.0156,128,0.85,,AS,
+Williamson,Max,18,2,AAS,AS_low10quant,5.080840298,0.021,126,0.85,,AS,
+Williamson,Max,18,3,AAS,AS_low10quant,17.70337804,0.0247,132,0.85,,AS,
+Williamson,Max,18,4,AAS,AS_low10quant,19.25152891,0.029,132,0.85,,AS,
+Williamson,Max,18,5,AAS,AS_low10quant,6.15065714,0.0194,131,0.85,,AS,
+Williamson,Max,18,6,AAS,AS_low10quant,11.60005788,0.0197,131,0.85,,AS,
+Williamson,Max,18,7,AAS,AS_low10quant,10.40315609,0.0249,131,0.85,,AS,
+Williamson,Max,18,8,AAS,AS_low10quant,17.45713659,0.0239,131,0.85,,AS,
+Williamson,Max,18,1,FAS,,4.047201618,0.0156,128,0.85,,AS,
+Williamson,Max,18,2,FAS,,3.037917293,0.021,126,0.85,,AS,
+Williamson,Max,18,3,FAS,,4.276580067,0.0247,132,0.85,,AS,
+Williamson,Max,18,4,FAS,,4.243291299,0.029,132,0.85,,AS,
+Williamson,Max,18,5,FAS,,3.679024717,0.0194,131,0.85,,AS,
+Williamson,Max,18,6,FAS,,5.163688058,0.0197,131,0.85,,AS,
+Williamson,Max,18,7,FAS,,3.86911222,0.0249,131,0.85,,AS,
+Williamson,Max,18,8,FAS,,4.40622533,0.0239,131,0.85,,AS,
+Williamson,Max,18,1,MMR,,15.60608473,0.0156,128,0.85,,MR,
+Williamson,Max,18,2,MMR,,7.573993635,0.021,126,0.85,,MR,
+Williamson,Max,18,3,MMR,,23.10638291,0.0247,132,0.85,,MR,
+Williamson,Max,18,4,MMR,,25.18732904,0.029,132,0.85,,MR,
+Williamson,Max,18,5,MMR,,8.44651395,0.0194,131,0.85,,MR,
+Williamson,Max,18,6,MMR,,14.3860634,0.0197,131,0.85,,MR,
+Williamson,Max,18,7,MMR,,14.02907076,0.0249,131,0.85,,MR,
+Williamson,Max,18,8,MMR,,22.58220464,0.0239,131,0.85,,MR,
+Williamson,Max,18,1,RMR,post EPOC values,5.369528951,0.0212,,,,,
+Williamson,Max,18,2,RMR,post EPOC values,3.111768075,0.0368,,,,,
+Williamson,Max,18,3,RMR,post EPOC values,7.025400249,0.0172,,,,,
+Williamson,Max,18,4,RMR,post EPOC values,7.119397399,0.0182,,,,,
+Williamson,Max,18,5,RMR,post EPOC values,2.756911002,0.0343,,,,,
+Williamson,Max,18,6,RMR,post EPOC values,3.517122486,0.0195,,,,,
+Williamson,Max,18,7,RMR,post EPOC values,4.466903173,0.0224,,,,,
+Williamson,Max,18,8,RMR,post EPOC values,6.147134423,0.0153,,,,,
+Williamson,Max,18,1,SMR,SMR_low10quant,3.856018603,0.0156,128,0.85,,MR,
+Williamson,Max,18,2,SMR,SMR_low10quant,2.493153336,0.021,126,0.85,,MR,
+Williamson,Max,18,3,SMR,SMR_low10quant,5.403004865,0.0247,132,0.85,,MR,
+Williamson,Max,18,4,SMR,SMR_low10quant,5.935800128,0.029,132,0.85,,MR,
+Williamson,Max,18,5,SMR,SMR_low10quant,2.29585681,0.0194,131,0.85,,MR,
+Williamson,Max,18,6,SMR,SMR_low10quant,2.786005513,0.0197,131,0.85,,MR,
+Williamson,Max,18,7,SMR,SMR_low10quant,3.62591467,0.0249,131,0.85,,MR,
+Williamson,Max,18,8,SMR,SMR_low10quant,5.125068046,0.0239,131,0.85,,MR,

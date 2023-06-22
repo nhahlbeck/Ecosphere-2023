@@ -1,0 +1,131 @@
+date,capture_method,location,specific_location,sex,fin_clip_id,TL_estimate_in,FL_mm,wt_estimate_lb,wt_g,copepods,lamprey_marks,comments
+7/27/2016,mort,UKL,,,ADFL1,,725,,,,,
+4/19/2018,mort,UKL,,M,ADFL10,,620,,,,,
+4/24/2018,mort,Williamson,Weir,F,ADFL11,27.75,,,,,,sent to odfw fish path
+5/22/2018,mort,Williamson,Weir,M,ADFL12,27.25,,7.5,,,,
+5/22/2018,mort,Williamson,Weir,M,ADFL13,27.25,,7.5,,,,
+5/19/2018,angling,UKL,Howard Bay,,ADFL14,,504,,1520,,,wt questionable
+5/19/2018,angling,UKL,Howard Bay,F,ADFL15,,574,,2280,,,wt questionable
+5/19/2018,angling,UKL,"South UKL (Cove Pt, Hanks Marsh, Skillet Handle)",M,ADFL16,,550,,2232,,,wt questionable
+5/19/2018,angling,UKL,Howard Bay,F,ADFL17,,505,,1480,,,wt questionable
+5/19/2018,angling,UKL,Howard Bay,,ADFL18,,544,,1980,,,wt questionable
+5/21/2018,angling,UKL,Howard Bay,M,ADFL19,,590,,2230,,,
+8/4/2016,mort,Pelican Bay,Harriman Ck,F,ADFL2,,535,,,,,
+5/21/2018,angling,UKL,Howard Bay,F,ADFL20,,585,,2120,,,
+5/21/2018,angling,UKL,Howard Bay,F,ADFL21,,662,,3080,,,
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,M,ADFL22,,695,,4072,N,10,"caught previous day and held in net pen resulting in physical damage; lamprey marks fresh, poor condition, scales missing"
+4/14/2017,angling,UKL,Shoalwater Bay,F,ADFL23,,618,,3590,N,3,"2 fresh, 1 healed lamprey marks; excellent condition, potentially gravid but bright"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,F,ADFL24,,574,,2044,N,0,"caught previous day and held in net pen resulting in physical damage; deformed right eye, piece missing from caudal, net rash on mandible and opercle; fin clip mixed up with others - discarded as no longer identifiable"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,F,ADFL25,,575,,2110,N,10,"caught previous day and held in net pen resulting in physical damage; most lamprey marks fresh, right eye deformed, bright, spawned out"
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL26,,598,,2225,N,0,"dark, fair condition; fin clip mixed up with others - discarded as no longer identifiable"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,F,ADFL27,,588,,1821,N,2,"caught previous day and held in net pen resulting in physical damage; lamprey marks severe, convulsed in measuring tray"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,F,ADFL28,,519,,1706,N,6,"caught previous day and held in net pen resulting in physical damage; lower mandible abrasion, left eye deformed"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL29,,544,,1710,Y,1,"caught previous day and held in net pen resulting in physical damage; hook or net injury on mouth w/ parasites, missing scales; fin clip mixed up with others - discarded as no longer identifiable"
+8/4/2016,mort,Pelican Bay,Pelican Bay/Rocky Pt Shoreline,,ADFL3,,567,,,,,hooking mort
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL30,,500,,1436,N,0,"caught previous day and held in net pen resulting in physical damage; potential otter marks - 2 vertical lacerations, healed"
+4/14/2017,angling,UKL,Eagle Ridge,,ADFL31,,598,,2318,N,0,"2 tiny lesions at base of dorsal fin, good condition, bright"
+4/14/2017,angling,UKL,Eagle Ridge,,ADFL32,,604,,2708,N,1,"bright chrome, missing scales, otherwise good condition"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL33,,425,,828,,,caught previous day and held in net pen resulting in physical damage
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL34,,494,,1236,N,0,caught previous day and held in net pen resulting in physical damage
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL35,,574,,2355,N,4,"caudal peduncle injury, some scales missing, bright"
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL36,,535,,1668,N,3,"2 old and 1 fresh lamprey marks, bright, fair condition, slight descaling"
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL37,,622,,3034,N,6,"bright, otherwise good condition, NH sexed"
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL38,,610,,3244,Y,2,"bright, excellent condition except for 2 healed lamprey marks and a few lernaea in gills, NH sexed"
+4/14/2017,angling,UKL,Shoalwater Bay,F,ADFL39,,632,,3296,N,2,"lamprey marks healed, good condition, dark, caudal fin frayed, bleeder"
+11/27/2017,mort,Sunnybrook,,M,ADFL4,25,,,,,,
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL40,,565,,2360,N,3,"bright, some scale loss"
+4/14/2017,angling,UKL,Eagle Ridge,F,ADFL41,,565,,1886,N,0,"bright chrome, skinny, maybe spawned out, good scale coverage, NH sexed"
+4/14/2017,angling,UKL,Shoalwater Marsh,,ADFL42,,524,,1728,Y,3,"dark, skinny, lower mandible abrasion, lernaea in gill rakers"
+4/14/2017,angling,UKL,Shoalwater Marsh,F,ADFL43,,593,,2292,N,3,"poor condition, heavy scale loss, hook in mouth, pale, deformed mandible, worst condition fish today, NH sexed"
+4/14/2017,angling,UKL,Shoalwater Marsh,F,ADFL44,,506,,1382,Y,5,"skinny, pale, NH sexed, 1 lernaea"
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL45,,,,,,,clip from one of fish 1-23 that fell out of envelope
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL46,,,,,,,clip from one of fish 1-23 that fell out of envelope
+4/14/2017,angling,UKL,Shoalwater/Eagle Ridge,,ADFL47,,,,,,,clip from one of fish 1-23 that fell out of envelope
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL48,,525,,1332,N,3,"spawned out, 3 vertical lacerations below dorsal, missing dorsal fin - fresh"
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL49,,527,,1416,N,0,"blackish gums, heavily spotted, some descaling and possible very old lamprey marks, large anal and adipose fins, skinny and spawned out but great condition"
+12/7/2017,mort,Sunnybrook,,,ADFL5,,,,,,,"skin sample, not fin"
+4/15/2017,angling,UKL,Eagle Ridge,M,ADFL50,,625,,2884,N,5,2 fresh and 3 old lamprey marks; chrome
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL51,,610,,2502,N,0,"slight caudal fin abrasion, great condition, NH sexed"
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL52,,537,,1934,N,2,"lamprey marks old; bright, some scale loss, skinny, NH sexed"
+4/15/2017,angling,UKL,Shoalwater Bay,F,ADFL53,,665,,3514,N,0,"unknown red lesions above anal fin and below adipose and on caudal fin, possibly spawning related hemorrhaging, NH sexed, thick body"
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL54,,548,,2284,Y,1,"lamprey mark old; lernaea in gills, bright chrome, deep bodied but laterally compressed, NH sexed"
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL55,,585,,2748,N,2,1 pectoral and 1 lateral LARGE fresh lamprey mark; NH sexed
+4/15/2017,angling,UKL,Eagle Ridge,M,ADFL56,,525,,1630,Y,2,"lamprey marks on pectoral and anal, lernaea in gills, bright, skinny, NH sexed"
+4/15/2017,angling,UKL,Skillet Handle,M,ADFL57,,575,,2142,N,1,"lamprey mark old; descaled, bright, 3 vertical lacerations, deep body, laterally compressed, NH sexed, anal fin lesion"
+4/15/2017,angling,UKL,Eagle Ridge,M,ADFL58,,657,,2618,Y,4,"lamprey marks old, lots of lernaea, caudal fin lesion on dorsal side, strong kype, jaw abraded to bone, 2 ventral yellow spots, dark, probably post spawn"
+4/15/2017,angling,UKL,Eagle Ridge,F,ADFL59,,597,,2470,Y,1,"lamprey mark very old, some lernaea in gills, chrome bright, great condition"
+12/7/2017,mort,Sunnybrook,,M,ADFL6,19,,,,,,
+4/15/2017,angling,UKL,Eagle Ridge,M,ADFL60,,588,,2354,Y,3,"lamprey marks old, few lernaea in gills, prominent kype, spawned out male, dropped 1/2 ft"
+4/15/2017,angling,UKL,Shoalwater Marsh,M,ADFL61,,600,,2072,N,2,"very dark, very prominent kype, descaled, likely spent make, caught w/ 2 lampreys on fish"
+4/15/2017,angling,UKL,Shoalwater Marsh,F,ADFL62,,548,,1928,Y,3,"lamprey marks old, many lernaea in gills"
+4/15/2017,angling,UKL,Shoalwater Bay,F,ADFL63,,548,,1982,N,0,"dark, abraded caudal fin, dropped on surgical plane 1/2 ft"
+12/7/2017,mort,Sunnybrook,,,ADFL7,,,,,,,"skin sample, not fin"
+4/3/2018,mort,Williamson,Weir,M,ADFL8,,585,,,,,sent to odfw fish path
+4/17/2018,mort,Williamson,Weir,F,ADFL9,,610,,,,,sent to odfw fish path
+5/26/2017,angling,Keno,Keno Dam,,KENO1,,317,,416,N,0,"long transport, scale loss, deformed eyes (catlike), not given sedation and recovered well, temp read 18.8 at 1pm"
+5/26/2017,angling,Keno,Keno Dam,,KENO10,,417,,870,N,0,"went down 30s sooner than others, heavily descaled, dry (no slime), pale"
+5/26/2017,angling,Keno,Keno Dam,,KENO11,,343,,546,N,0,"mort, diet = empty/digested mush"
+5/26/2017,angling,Keno,Keno Dam,,KENO12,,365,,620,N,0,"mort, diet = 4 unid. fish approx. 55 mm, 1 diving beetle larva 30 mm"
+5/26/2017,angling,Keno,Keno Dam,,KENO13,,282,,338,Y,0,"some scale loss, only 1 copepod on dorsal"
+5/26/2017,angling,Keno,Keno Dam,F,KENO14,,476,,1376,N,0,"very bright red coloring, top of caudal missing, skinny"
+5/26/2017,angling,Keno,Keno Dam,,KENO15,,393,,766,N,0,"missing left pelvic fin, jaw injury, scale loss, rough texture"
+5/26/2017,angling,Keno,Keno Dam,,KENO16,,256,,238,N,0,eye and jaw injury
+5/25/2018,angling,Keno,Keno Dam,,KENO17,,368,,874,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO18,,364,,654,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO19,,384,,812,,,
+5/26/2017,angling,Keno,Keno Dam,F,KENO2,,414,,870,N,0,"went under at 1:30, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/25/2018,angling,Keno,Keno Dam,,KENO20,,339,,540,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO21,,325,,528,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO22,,358,,554,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO23,,421,,1154,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO24,,375,,854,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO25,,345,,666,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO26,,389,,850,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO27,,294,,392,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO28,,366,,702,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO29,,295,,416,,,
+5/26/2017,angling,Keno,Keno Dam,F,KENO3,,428,,904,N,1,"yellow spot between pectorals, 1 predation mark/laceration, questionable lamprey mark on peduncle - see nick's phone for photo, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/25/2018,angling,Keno,Keno Dam,,KENO30,,366,,700,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO31,,421,,1046,,,wt questionable
+5/25/2018,angling,Keno,Keno Dam,,KENO32,,335,,540,,,wt questionable
+5/25/2018,angling,Keno,Keno Dam,,KENO33,,349,,566,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO34,,345,,634,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO35,,344,,578,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO36,,350,,600,,,
+5/25/2018,angling,Keno,Keno Dam,,KENO37,,397,,854,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO38,,378,,730,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO39,,412,,1080,,,
+5/26/2017,angling,Keno,Keno Dam,,KENO4,,305,,402,N,0,thermal shock - transferred from 18.5C river to 14.8C tank for holding
+5/30/2018,angling,Keno,Keno Dam,,KENO40,,365,,710,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO41,,376,,725,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO42,,394,,870,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO43,,289,,315,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO44,,344,,520,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO45,,213,,140,,,
+5/30/2018,angling,Keno,Keno Dam,,KENO46,,424,,1140,,,
+6/5/2018,angling,Keno,Keno Dam,,KENO47,,320,,,,,
+6/6/2018,angling,Keno,Keno Dam,,KENO48,,325,,530,,,
+6/6/2018,angling,Keno,Keno Dam,,KENO49,,341,,585,,,
+5/26/2017,angling,Keno,Keno Dam,M,KENO5,,340,,484,N,0,"pale, skinnier, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+6/8/2018,angling,Keno,Keno Dam,,KENO50,,320,,440,,,
+9/5/2018,angling,Keno,Powerlines,,KENO51,,395,,790,,,"3:00 Ko, Fair to good condition, some scale loss, upper maxillary gone"
+9/5/2018,angling,Keno,Powerlines,,KENO52,,363,,610,,,"4:40 Ko, fair to good "
+9/5/2018,angling,Keno,Powerlines,,KENO53,,303,,400,,,good condition
+9/5/2018,angling,Keno,Powerlines,,KENO54,,299,,335,,,fin clip for genetics
+9/5/2018,angling,Keno,Powerlines,,KENO55,,300,,375,,,"fair to good, orange spot on ventral, fin clip for genetics"
+9/5/2018,angling,Keno,Powerlines,,KENO56,,279,,315,,,"fair to good, fin clip and pics taken"
+9/5/2018,angling,Keno,Powerlines,,KENO57,,369,,590,,,3:00
+9/5/2018,angling,Keno,Powerlines,,KENO58,,353,,575,,,"3:50new does, 4 per 30 pics and clipped"
+9/5/2018,angling,Keno,Powerlines,,KENO59,,443,,1125,,,2:45 pics and clipped
+5/26/2017,angling,Keno,Keno Dam,,KENO6,,336,,542,N,0,thermal shock - transferred from 18.5C river to 14.8C tank for holding
+9/5/2018,angling,Keno,Powerlines,,KENO60,,290,,370,,,4:00
+9/5/2018,angling,Keno,Powerlines,,KENO61,,366,,615,,,3:00
+9/5/2018,angling,Keno,Powerlines,,KENO62,,306,,390,,,3:00
+9/5/2018,angling,Keno,Powerlines,,KENO63,,283,,315,,,3:00
+9/5/2018,angling,Keno,Powerlines,,KENO64,,296,,370,,,2:45
+9/5/2018,angling,Keno,Powerlines,,KENO65,,315,,470,,,2:15
+9/5/2018,angling,Keno,Powerlines,,KENO66,,325,,450,,,"2:40, 20.4 degrees @1pm"
+9/5/2018,angling,Keno,Powerlines,,KENO67,,395,,850,,,1:50
+5/26/2017,angling,Keno,Keno Dam,F,KENO7,,350,,630,N,0,"fat, colorful, great condition, bleeder, thermal shock - transferred from 18.5C river to 14.8C tank for holding"
+5/26/2017,angling,Keno,Keno Dam,M,KENO8,,386,,738,N,0,"yellow dot in front of pectoral, good condition, colorful"
+5/26/2017,angling,Keno,Keno Dam,M,KENO9,,354,,584,N,0,"lots of scale loss, yellow dot behind pectoral, somewhat dark/muted color"

@@ -1,0 +1,49 @@
+Basin,TempTrial,TempTrial1,ID,Minutes,MO2,Note,Note2,SMRtype_spar,Descrip
+Spencer,Ambient,14,1,18,62.158,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Ambient,14,2,15,25.862,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Ambient,14,3,6,5.021,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Ambient,14,4,11,31.761,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Ambient,14,5,11,28.29,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,6,11,30.626,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,7,10,31.16,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Ambient,14,8,12,34.306,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,1,23,63.506,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Max,22,2,17,61.476,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Max,22,3,13,52.288,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Max,22,4,20,69.936,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Max,22,5,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,6,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked ok when adjusted but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,7,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,MMR (manual) looked good but SMR (auto) data very messy with only a few useable measurements
+Spencer,Max,22,8,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,Recirc pumps turned off for part of time; Both MMR and SMR plots looked rough
+Spencer,Climate,25,1,14,62.457,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Climate,25,2,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,mort
+Spencer,Climate,25,3,10,46.87,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Climate,25,4,8,40.514,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Climate,25,5,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,mort
+Spencer,Climate,25,6,23,69.838,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Climate,25,7,33,77.441,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Spencer,Climate,25,8,22,55.326,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,1,17,56.366,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,2,27,94.511,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,3,17,62.789,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,4,18,54.232,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,5,15,38.402,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,6,14,31.272,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,7,15,34.151,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Ambient,11,8,94,116.492,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,Flush pump issue; couldn't get MMR
+Williamson,Max,18,1,51,46.789,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,2,172,436.816,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,3,40,187.737,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,4,96,380.001,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,5,117,109.076,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,6,32,75.975,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,7,100,300.368,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Max,18,8,131,729.302,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,1,23,114.649,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,2,0,0,exclude,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,Probe got switched out; first measurement oddly low
+Williamson,Climate,22,3,574,1216.817,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,4,68,96.825,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,5,127,579.637,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,6,180,303.428,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,7,169,406.275,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
+Williamson,Climate,22,8,117,247.507,,Minutes = end_EPOC.mmr;  MO2=EPOC_mmr,SMRlow10quant_0.2,
